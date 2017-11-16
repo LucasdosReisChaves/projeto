@@ -1,0 +1,23 @@
+[Devices][/org/freedesktop/UDisks2/block_devices/loop0]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Dispositivo virtual
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Dispositivo virtual
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/loop2]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Dispositivo virtual
+LastSeenMounted=true
+
+[Devices][/org/freedesktop/UDisks2/block_devices/sda1]
+EverMounted=true
+Icon=drive-harddisk
+LastNameSeen=Disco rígido 32,6 GiB
+LastSeenMounted=true

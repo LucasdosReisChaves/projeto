@@ -1,0 +1,441 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS » Blog :: by wfsneto</title>
+
+  <link rel="stylesheet" media="all" href="/assets/application-4d41b8949770e4554c86c8350a56fcd3.css" data-turbolinks-track="true" />
+  <script>var root_url = "http://blog.wfsneto.com.br/"</script>
+  <script src="//apis.google.com/js/plusone.js" type="text/javascript"></script>
+  <script src="//platform.linkedin.com/in.js" type="text/javascript">lang: en_US</script>
+
+  <script src="/assets/site-a2f04aaf5b392e81dac1025405a5d05c.js" data-turbolinks-track="true"></script>
+  <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <meta content="width=device-width, initial-scale=1.0" name="viewport" />
+
+  <!-- facebook:tags -->
+  <meta property="og:type" content="blog" />
+  <meta property="og:author" content="wfsneto.com.br,emmet.com.br" />
+  <meta property="og:url" content="http://blog.wfsneto.com.br/2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts" />
+  <meta property="og:title" content="Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS" />
+  <meta property="og:site_name" content="Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS » Blog :: by wfsneto" />
+  <meta property="og:image" content="http://images.wfsneto.com.br/posts/sublime-text-thumb.jpg" />
+  <meta property="og:description" content="Vou instalar e configurar um Sublime text 3 e o package control e só para documentar, lá vamos nós... Bem, o objet..." />
+
+  <!-- favicon -->
+  <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+  <link rel="icon" href="/assets/favicon.ico" type="image/x-icon">
+
+  <script type="text/javascript">
+    window.smartlook||(function(d) {
+    var o=smartlook=function(){ o.api.push(arguments)},s=d.getElementsByTagName('script')[0];
+    var c=d.createElement('script');o.api=new Array();c.async=true;c.type='text/javascript';
+    c.charset='utf-8';c.src='//rec.getsmartlook.com/bundle.js';s.parentNode.insertBefore(c,s);
+    })(document);
+    smartlook('init', '2fc2cd44cf055ceac62ea618c0e6bf46d8e94202');
+  </script>
+
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="N+V45FzZRTdIy91Tgj8hgOwa1h8tHBe40Awl9ib493ESDukcdOdFbziejP84KZql6yuxoaeeBhWa05iRRfr3SQ==" />
+</head>
+<body id="application">
+
+<div id="wfsneto-top-navigation" data-current="blog.wfsneto"></div>
+
+<header>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h1>Blog</h1>
+      </div>
+
+      <div class="col-md-6">
+        <form id="form-search" action="/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="&#x2713;" />
+          <div class="input-group" style="margin:25px 0px;">
+            <input type="text" name="q" id="q" placeholder="looking for something?" class="form-control" />
+            <span class="input-group-addon">
+              <button type="submit" class="nav-button-search">
+                <i class="fa fa-search"></i>
+              </button>
+            </span>
+          </div>
+</form>      </div>
+    </div>
+
+    
+
+    <nav class="navbar navbar-default" role="navigation">
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#blog-navbar-collapse">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+      <div class="collapse navbar-collapse" id="blog-navbar-collapse">
+        <ul class="nav navbar-nav">
+                <li><a href="/blog">Blog</a></li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    Development <b class="caret"></b>
+</a>                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/development">See all</a></li>
+
+                        <li><a href="/laravel">Laravel</a></li>
+                        <li><a href="/php">PHP</a></li>
+                        <li><a href="/ror">Ruby on Rails</a></li>
+                        <li><a href="/cakephp">CakePHP</a></li>
+                        <li><a href="/javascript">Javascript</a></li>
+                  </ul>
+                </li>
+                <li><a href="/installs">Installs</a></li>
+                <li class="dropdown">
+                  <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+                    Mobile <b class="caret"></b>
+</a>                  <ul class="dropdown-menu" role="menu">
+                    <li><a href="/mobile">See all</a></li>
+
+                        <li><a href="/android">Android</a></li>
+                        <li><a href="/phonegap">PhoneGap</a></li>
+                        <li><a href="/ios">IOS</a></li>
+                  </ul>
+                </li>
+                <li><a href="/portfolio">Portfólio</a></li>
+                <li><a href="/quickies">Quickies</a></li>
+        </ul>
+      </div>
+    </nav>
+  </div>
+</header>
+
+
+
+<div class="row">
+    <br />
+    <div class="col-md-12 text-center">
+        <!-- Blog wfsneto :: top -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:728px;height:90px"
+             data-ad-client="ca-pub-3361631626986533"
+             data-ad-slot="8089224204"></ins>
+
+        <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+    </div>
+</div>
+
+
+<div id="content"> <section class="container">
+    <h2>Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS</h2>
+
+    <div class="row">
+      <div class="col-md-9">
+        <small style="color:#808080">June 23, 2014 -
+          <i>Last updated on January 09, 2016 06h24m03s</i>
+        </small>
+
+          <a title="Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS" data-gallery="imagesizes" data-toggle="lightbox" href="http://images.wfsneto.com.br/posts/sublime-text.jpg">
+            <img class="thumbnail img-responsive" src="http://images.wfsneto.com.br/posts/sublime-text.jpg" alt="Sublime text" />
+</a>
+        <article class="article-text">
+          <p>Vou instalar e configurar um <i>Sublime text 3</i> e o package control e só para documentar, lá vamos nós... Bem, o objetivo maior deste post é documentar as configurações mas vamos instalar via bash ou via .deb</p>
+
+<h4>Instalando via terminal</h4>
+
+<pre><code>sudo add-apt-repository ppa:webupd8team/sublime-text-3
+sudo apt-get update
+sudo apt-get install sublime-text-installer
+</code></pre>
+
+<h4>Instalando via .deb</h4>
+
+<p>Para instalar é necessário fazer o download do Sublime text 3 <a href="http://wfsnet.in/npPrO">nesta página</a> ou nesse <a href="http://wfsnet.in/Pmu5u">link direto</a>, vai até ao arquivo dê dois cliques e seja feliz</p>
+
+
+
+
+<h4>Configurando</h4>
+
+
+
+
+<p>Após o sublime ser instalado vamos configura-lo para isso vá até [`Preferences` > <code>Settings - User</code>] e cole o json abaixo no arquivo aberto.</p>
+
+
+<pre><code>{
+    // Note that the font_face and font_size are overriden in the platform
+    // specific settings file, for example, "Preferences (Linux).sublime-settings".
+    // Because of this, setting them here will have no effect: you must set them
+    // in your User File Preferences.
+    "font_face": "Source Code Pro",
+    "font_size": 12,
+
+    // List any packages to ignore here. When removing entries from this list,
+    // a restart may be required if the package contains plugins.
+    "ignored_packages": ["Vintage"],
+
+    // The number of spaces a tab is considered equal to
+    "tab_size": 4,
+
+    // Set to true to insert spaces when tab is pressed
+    "translate_tabs_to_spaces": true,
+
+    // Set to true to removing trailing white space on save
+    "trim_trailing_white_space_on_save": true,
+
+    // Disables horizontal scrolling if enabled.
+    // May be set to true, false, or "auto", where it will be disabled for
+    // source code, and otherwise enabled.
+    "word_wrap": false,
+
+    // Show folders in the side bar in bold
+    "bold_folder_labels": true,
+
+    // Set to true to automatically save files when switching to a different file
+    // or application
+    "save_on_focus_lost": true,
+
+    // If enabled, will highlight any line with a caret
+    "highlight_line": true,
+}
+</code></pre>
+
+<h4>Package Control</h4>
+
+
+
+
+<p>Para instalar é só acessar [<code>View</code> > <code>Show Console</code>] e colar o código abaixo. Para mais informação acesse <a href="http://wfsnet.in/KIWmL">aqui</a></p>
+
+
+
+
+<pre>import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)</pre>
+
+
+
+
+<p>Reinicie o Sublime e seja feliz...</p>
+
+
+
+
+<p>Para instalar os pacotes pressione <code>Ctrl + Shift + P</code>, digite <i>install package</i> irá aparecer <i>Package Control: Install Package</i>, em seguida procure o pacote desejado.</p>
+
+
+
+
+<h4>Extra - Instalando fonte</h4>
+
+
+
+
+<p>Bem, não sei se você não permaneceu exsite a seguinte linha <code>"font_face": "Source Code Pro"</code> e para que essa fonte funcione é necessário baixar e instala-la. Clique <a href="http://wfsnet.in/VOgyQ">aqui</a> para abri a página no Github ou nesse <a href="http://wfsnet.in/sEzWu">link direto</a> para fazer o download. Extraia os arquivos e instale todas as fontes dentro da pasta TTF e OTF</p>
+
+
+
+
+<p>Veja também como:</p>
+
+
+<ol>
+    <li><a href="http://wfsnet.in/xrLuv">[PHP] Configurando ambiente de densenvolvimento Ubuntu 14.04</a></li>
+    <li><a href="http://wfsnet.in/jrcR2">[RoR] Instalando RVM, Ruby e Rails no Ubuntu 12.04</a></li>
+</ol>
+
+
+        </article>
+
+        <hr />
+        <div class="row">
+  <div class="col-md-12">
+    <!-- Gostox.in Save -->
+    <div class="pull-left" style="margin-right:30px">
+      <div><a href="//gostoz.in">
+        <img rel="tooltip"
+          data-placement="bottom"
+          data-original-title="Salvar no Gostoz.in"
+          src="//gostoz.in/images/gostozin-64.png" />
+      </a></div>
+    </div>
+
+  <!-- LinkedIn -->
+    <div class="pull-left" style="margin-right:30px">
+      <script type="IN/Share" data-url="2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts" data-counter="top"></script>
+    </div>
+
+    <!-- GooglePlus -->
+    <div class="pull-left" style="margin-right:30px">
+      <g:plusone size="tall" href="2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts"></g:plusone>
+    </div>
+
+    <!-- Twitter -->
+    <div class="pull-left" style="margin-right:30px">
+      <a href="https://twitter.com/share"
+        class="twitter-share-button"
+        data-url="2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts"
+        data-text="Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS"
+        data-count="vertical"
+        data-via="wfsneto">
+      </a>
+    </div>
+
+    <!-- Facebook Like -->
+    <div class="pull-left" style="margin-right:30px">
+      <div class="fb-like"
+        data-href="2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts"
+        data-send="false"
+        data-layout="box_count"
+        data-show-faces="false"></div>
+    </div>
+  </div>
+</div>
+
+
+        <hr />
+        <script type="text/javascript">
+          var disqus_title = 'Instalando e configurando o Sublime Text 3 no Ubuntu 14.04 LTS';
+          var disqus_identifier = '/2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts';
+          var disqus_url = 'http://blog.wfsneto.com.br/2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts';
+        </script>
+        <div id="disqus_thread"></div><script type="text/javascript" src="http://disqus.com/forums/blog-wfsneto/embed.js"></script><noscript><a href="http://blog-wfsneto.disqus.com/?url=ref">View the discussion thread</a></noscript><a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+      </div>
+      <div class="col-md-3 hidden-xs" id="sidebar">
+  <div class="row">
+      <div class="col-md-12">
+        <h4>categories</h4>
+        <div><ul>
+              <li><a href="/blog">Blog</a> (62)</li>
+              <li><a href="/laravel">Laravel</a> (2)</li>
+              <li><a href="/php">PHP</a> (7)</li>
+              <li><a href="/ror">Ruby on Rails</a> (26)</li>
+              <li><a href="/android">Android</a> (4)</li>
+              <li><a href="/portfolio">Portfólio</a> (16)</li>
+              <li><a href="/installs">Installs</a> (29)</li>
+              <li><a href="/mobile">Mobile</a> (4)</li>
+              <li><a href="/development">Development</a> (33)</li>
+              <li><a href="/javascript">Javascript</a> (5)</li>
+              <li><a href="/quickies">Quickies</a> (17)</li>
+        </ul></div>
+      </div>
+
+      <div class="col-md-12">
+        <h4>dates</h4>
+        <div><ul>
+            <li><a href="/2016/04">April 2016</a> (1)</li>
+            <li><a href="/2016/02">February 2016</a> (2)</li>
+            <li><a href="/2015/05">May 2015</a> (3)</li>
+            <li><a href="/2015/04">April 2015</a> (1)</li>
+            <li><a href="/2015/03">March 2015</a> (1)</li>
+            <li><a href="/2014/08">August 2014</a> (6)</li>
+            <li><a href="/2014/06">June 2014</a> (2)</li>
+            <li><a href="/2014/04">April 2014</a> (1)</li>
+            <li><a href="/2013/12">December 2013</a> (1)</li>
+            <li><a href="/2013/11">November 2013</a> (1)</li>
+            <li><a href="/2013/10">October 2013</a> (1)</li>
+            <li><a href="/2013/08">August 2013</a> (1)</li>
+            <li><a href="/2013/07">July 2013</a> (4)</li>
+            <li><a href="/2013/06">June 2013</a> (2)</li>
+            <li><a href="/2013/05">May 2013</a> (2)</li>
+            <li><a href="/2013/04">April 2013</a> (6)</li>
+            <li><a href="/2013/02">February 2013</a> (1)</li>
+            <li><a href="/2012/06">June 2012</a> (1)</li>
+            <li><a href="/2012/05">May 2012</a> (2)</li>
+            <li><a href="/2012/04">April 2012</a> (2)</li>
+            <li><a href="/2012/01">January 2012</a> (3)</li>
+            <li><a href="/2011/12">December 2011</a> (4)</li>
+            <li><a href="/2011/11">November 2011</a> (4)</li>
+            <li><a href="/2011/10">October 2011</a> (6)</li>
+            <li><a href="/2011/09">September 2011</a> (13)</li>
+            <li><a href="/2011/08">August 2011</a> (5)</li>
+            <li><a href="/2011/07">July 2011</a> (1)</li>
+        </ul></div>
+      </div>
+
+    <div class="col-md-12 text-center">
+    <!-- Blog wfsneto :: sidebar -->
+  <ins class="adsbygoogle"
+       style="display:inline-block;width:300px;height:250px"
+       data-ad-client="ca-pub-3361631626986533"
+       data-ad-slot="6333289407"></ins>
+
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+</div>
+
+    <div class="col-md-12">
+      <h4>partners</h4>
+      <div class="partner">
+        <a target="blank" href="//emmet.com.br">
+          <img src="//emmet.com.br/img/icon.png" alt="Icon" />
+</a>
+        <a target="blank" href="//mostone.com.br">
+          <img src="//mostone.com.br/logos/black/mostone-256.png" alt="Mostone 256" />
+</a>      </div>
+    </div>
+  </div>
+</div>
+    </div>
+</section>
+ </div>
+<button class="btn btn-default go-to-top left">
+  <i class="fa fa-chevron-up"></i>
+</button>
+<button class="btn btn-default go-to-top right">
+  <i class="fa fa-chevron-up"></i>
+</button>
+
+<footer>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-4">
+        <form class="new_newsletter" id="new_newsletter" action="/newsletters" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="A1XkZJaU8huHnL5bFpzVUQcNu7w1RQahNXSHxND5hu0mvnWcvqryQ/fJ7/esim50ADzcAr/HFwx/qzqjs/uG1Q==" />
+          <div class="input-group">
+            <input placeholder="Register your email" class="form-control" type="text" name="newsletter[email]" id="newsletter_email" />
+            <span class="input-group-addon">
+              <button type="submit" class="nav-button-envelope">
+                <i class="fa fa-envelope"></i>
+              </button>
+            </span>
+          </div>
+</form>      </div>
+
+      <div class="col-md-4 col-md-offset-4 text-right emmet-signature">
+        <span id="emmet-signature"></span> & <span id="mostone-signature"></span>
+      </div>
+    </div>
+  </div>
+</footer>
+
+<script src="//partials.wfsneto.com.br/js/all.js"></script>
+
+</body>
+</html>
+v�;��      Z�&Z�H>f	�       e    :http://blog.wfsneto.com.br/2014/06/23/instalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts necko:classified 1 strongly-framed 0 request-method GET response-head HTTP/1.1 200 OK
+Server: Cowboy
+Date: Fri, 10 Nov 2017 13:31:19 GMT
+status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Etag: W/"38d1fb42aaf1ac76161e690045bb8c1f"
+Cache-Control: max-age=0, private, must-revalidate
+x-request-id: b9b79121-33a0-40a7-88c2-ef7e4d52c778
+x-runtime: 0.107316
+Via: 1.1 vegur
+ original-response-headers Server: Cowboy
+Connection: close
+Date: Fri, 10 Nov 2017 13:31:19 GMT
+status: 200 OK
+X-Frame-Options: SAMEORIGIN
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=utf-8
+Etag: W/"38d1fb42aaf1ac76161e690045bb8c1f"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: _blog_wfsneto_session=Unp0UzJ0QXBUanoxRTVEendmdWoyQXZOMWtIR0dIdnkvdG5QQWFZSVAxQnJYK1Voa1BPS2xBcnp3UHY1ZHhhZDdrNmtrVzRFUmxoTmpjSnVHM0JGTU9BNXlBMG1FQysyekxrc2MyUi8rZHhXaUVsSEZYM1lzMWZnNmpBcGtOM2FOMXg2VGpaSVI4UHZYV0JYZ3RzRkNsZlpxRUpvbWRzK3lDY1NKbVFlbnpXWGpZT1NMTytsT1N0a0xsenJWMG1wLS11eWlsekNDa09RZkxlK2trZ3lrN0NBPT0%3D--0463f90620ed979b0c0043542f9d7ae563698314; path=/; HttpOnly
+x-request-id: b9b79121-33a0-40a7-88c2-ef7e4d52c778
+x-runtime: 0.107316
+Via: 1.1 vegur
+ charset UTF-8 uncompressed-len 0 predictor::resource-count 41 predictor::http://blog.wfsneto.com.br/assets/application-4d41b8949770e4554c86c8350a56fcd3.css 1,1,1510320678,4096 predictor::http://apis.google.com/js/plusone.js 1,1,1510320678,4096 predictor::http://platform.linkedin.com/in.js 1,1,1510320678,4096 predictor::http://blog.wfsneto.com.br/assets/site-a2f04aaf5b392e81dac1025405a5d05c.js 1,1,1510320678,4096 predictor::http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js 1,1,1510320678,4096 predictor::http://images.wfsneto.com.br/posts/sublime-text.jpg 1,1,1510320678,4096 predictor::http://gostoz.in/images/gostozin-64.png 1,1,1510320678,4096 predictor::http://disqus.com/forums/blog-wfsneto/embed.js 1,1,1510320678,4096 predictor::http://emmet.com.br/img/icon.png 1,1,1510320678,4096 predictor::http://mostone.com.br/logos/black/mostone-256.png 1,1,1510320678,4096 predictor::http://partials.wfsneto.com.br/js/all.js 1,1,1510320678,4096 net-response-time-onstart 467 net-response-time-onstop 642 predictor::http://fonts.googleapis.com/css?family=Varela+Round 1,1,1510320678,4096 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.XKTeUOz12q0.O/m=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCP4sqCpsMFrnkAS1D-fz9HyKnFPQg/cb=gapi.loaded_0 1,1,1510320678,4096 predictor::https://platform.linkedin.com/js/secureAnonymousFramework?v=1.0.143-1429&lang=en_US 1,1,1510320678,4096 predictor::http://platform.twitter.com/widgets.js 1,1,1510320678,4096 predictor::http://connect.facebook.net/pt_BR/all.js#xfbml=1 1,1,1510320678,4096 predictor::http://rec.getsmartlook.com/bundle.js 1,1,1510320678,4096 predictor::http://blog.wfsneto.com.br/assets/site/background.png 1,1,1510320678,4096 predictor::http://fonts.gstatic.com/s/varelaround/v9/APH4jr0uSos5wiut5cpjrugdm0LZdjqr5-oayXSOefg.woff2 1,1,1510320678,4096 predictor::http://blog.wfsneto.com.br/fonts/fontawesome-webfont.woff?v=4.0.2 1,1,1510320678,4096 predictor::http://pagead2.googlesyndication.com/pagead/js/r20171106/r20170110/show_ads_impl.js 1,1,1510320678,4096 predictor::https://adservice.google.com.br/adsid/integrator.js?domain=blog.wfsneto.com.br 1,1,1510320678,4096 predictor::https://adservice.google.com/adsid/integrator.js?domain=blog.wfsneto.com.br 1,1,1510320678,4096 predictor::https://pagead2.googlesyndication.com/pub-config/r20160913/ca-pub-3361631626986533.js 1,1,1510320678,4096 predictor::https://www.linkedin.com/countserv/count/share?url=2014%2F06%2F23%2Finstalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts&lang=en_US 1,1,1510320678,4096 predictor::https://static.licdn.com/scds/common/u/images/apps/connect/sprites/sprite_connect_v14.png 1,1,1510320678,4096 predictor::https://pagead2.googlesyndication.com/pagead/js/r20171106/r20170110/osd.js 1,1,1510320678,4096 predictor::http://emmet.com.br/img/logo.png 1,1,1510320678,4096 predictor::http://mostone.com.br/logos/black/mostone-48.png 1,1,1510320678,4096 predictor::https://platform.twitter.com/js/button.65f8a84fdaba5c78545bf5a95cfcb4a8.js 1,1,1510320678,4096 predictor::https://apis.google.com/_/scs/apps-static/_/js/k=oz.gapi.en_US.XKTeUOz12q0.O/m=auth/exm=plusone/rt=j/sv=1/d=1/ed=1/am=AQ/rs=AGLTcCP4sqCpsMFrnkAS1D-fz9HyKnFPQg/cb=gapi.loaded_1 1,1,1510320678,4096 predictor::http://images.blog.wfsneto.com.br/logo.png 1,1,1510320678,4096 predictor::http://images.blog.wfsneto.com.br/blog/favicon-134.png 1,1,1510320678,4096 predictor::http://images.blog.wfsneto.com.br/gostozin/gostozin-128.png 1,1,1510320678,4096 predictor::http://images.blog.wfsneto.com.br/wfsnetin/favicon-134.png 1,1,1510320678,4096 predictor::http://images.blog.wfsneto.com.br/contact.png 1,1,1510320678,4096 predictor::https://www.facebook.com/impression.php/f2ea2645cbf9eb8/?lid=115&payload=%7B%22source%22%3A%22jssdk%22%7D 1,1,1510320678,4096 predictor::https://c.disquscdn.com/next/embed/alfalfa.4a5fcca1fe50a757044dfd331b660625.js 1,1,1510320678,4096 predictor::http://cdn.viglink.com/images/pixel.gif?ch=1&rn=8.045430491049762 1,1,1510320678,4096 predictor::http://cdn.viglink.com/images/pixel.gif?ch=2&rn=8.045430491049762 1,1,1510320678,4096 predictor::https://links.services.disqus.com/api/pixel.gif?libId=j9txxvka0100fi9e000DAe9kxqzf9&nocache=151032071281612&key=cfdfcf52dffd0a702a61bad27507376d&subId=2257896&i=type%3Dselection%26txt%3Dsudo%2520add-apt-repository%2520ppa%253Awebupd8team%252Fsublime-text-3%250Asudo%2520apt-get%2520update%250Asudo%2520apt-get%2520install%2520sublime-text-installer%26loc%3Dhttp%253A%252F%252Fblog.wfsneto.com.br%252F2014%252F06%252F23%252Finstalando-e-configurando-o-sublime-text-3-no-ubuntu-14-04-lts 1,1,1510320678,4096   B�

@@ -1,0 +1,2957 @@
+Xsession: X session started for jose at ter nov  7 09:58:12 -02 2017
+localuser:jose being added to access control list
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+OpenGL version: 3.
+dbus-update-activation-environment: setting LANG=pt_BR.UTF-8
+dbus-update-activation-environment: setting DISPLAY=:0
+dbus-update-activation-environment: setting PAM_KWALLET5_LOGIN=/run/user/1000/kwallet5.socket
+dbus-update-activation-environment: setting MANDATORY_PATH=/usr/share/gconf//usr/share/xsessions/plasma.mandatory.path
+dbus-update-activation-environment: setting USER=jose
+dbus-update-activation-environment: setting DESKTOP_SESSION=/usr/share/xsessions/plasma
+dbus-update-activation-environment: setting DEFAULTS_PATH=/usr/share/gconf//usr/share/xsessions/plasma.default.path
+dbus-update-activation-environment: setting PWD=/home/jose
+dbus-update-activation-environment: setting HOME=/home/jose
+dbus-update-activation-environment: setting QT_ACCESSIBILITY=1
+dbus-update-activation-environment: setting XDG_SESSION_TYPE=x11
+dbus-update-activation-environment: setting XDG_DATA_DIRS=/usr/share//usr/share/xsessions/plasma:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop
+dbus-update-activation-environment: setting XDG_SESSION_DESKTOP=KDE
+dbus-update-activation-environment: setting SHELL=/bin/bash
+dbus-update-activation-environment: setting XDG_SESSION_CLASS=user
+dbus-update-activation-environment: setting XDG_SEAT_PATH=/org/freedesktop/DisplayManager/Seat0
+dbus-update-activation-environment: setting IM_CONFIG_PHASE=1
+dbus-update-activation-environment: setting XDG_CURRENT_DESKTOP=KDE
+dbus-update-activation-environment: setting QT_LINUX_ACCESSIBILITY_ALWAYS_ON=1
+dbus-update-activation-environment: setting SHLVL=1
+dbus-update-activation-environment: setting LANGUAGE=pt_BR:pt:en
+dbus-update-activation-environment: setting LOGNAME=jose
+dbus-update-activation-environment: setting DBUS_SESSION_BUS_ADDRESS=unix:abstract=/tmp/dbus-ArikyAOWHx,guid=04970e7589f92a3f0546da805a019fd6
+dbus-update-activation-environment: setting XDG_RUNTIME_DIR=/run/user/1000
+dbus-update-activation-environment: setting PAM_KWALLET_LOGIN=/run/user/1000/kwallet.socket
+dbus-update-activation-environment: setting XAUTHORITY=/home/jose/.Xauthority
+dbus-update-activation-environment: setting XDG_SESSION_PATH=/org/freedesktop/DisplayManager/Session2
+dbus-update-activation-environment: setting XDG_CONFIG_DIRS=/etc/xdg/xdg-/usr/share/xsessions/plasma:/etc/xdg:/usr/share/kubuntu-default-settings/kf5-settings
+dbus-update-activation-environment: setting PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+dbus-update-activation-environment: setting _=/usr/bin/dbus-update-activation-environment
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Loading stage  "initial" 312
+startkde: Starting up...
+dbus-update-activation-environment: warning: error sending to systemd: org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/klauncher'
+kdeinit5: Launched KLauncher, pid = 1181, result = 0
+Connecting to deprecated signal QDBusConnectionInterface::serviceOwnerChanged(QString,QString,QString)
+kdeinit5: opened connection to :0
+kdeinit5: preparing to launch 'libkdeinit5_kded5'
+kdeinit5: Launched KDED, pid = 1184 result = 0
+kdeinit5: preparing to launch 'libkdeinit5_kcminit_startup'
+kdeinit5: Launched 'kcminit_startup', pid = 1185 result = 0
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/desktopnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/solidautoeject.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/filenamesearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/recentdocumentsnotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kscreen.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ktimezoned.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/device_automounter.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/baloosearchmodule.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkstatus.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/statusnotifierwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/keyboard.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/kwrited.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkmanagement.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/proxyscout.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/remotedirnotify.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/freespacenotifier.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/soliduiserver.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/bluedevil.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/appmenu.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/networkwatcher.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/khotkeys.so"
+kf5.kded: No X-KDE-DBus-ServiceName found in "/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kded/ksysguard.so"
+Waiting for already running kbuildsycoca5 to finish.
+Menu "applications-kmenuedit.menu" not found.
+Saving
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_access" :  "kcminit_access"
+kdeinit5: Got EXEC_NEW '/usr/bin/kaccess' from launcher.
+kdeinit5: preparing to launch '/usr/bin/kaccess'
+Initializing  "kcm_input" :  "kcminit_mouse"
+kdeinit5: PID 1191 terminated.
+Initializing  "kcm_style" :  "kcminit_style"
+kf5.kcoreaddons.kaboutdata: Could not initialize the equivalent properties of Q*Application: no instance (yet) existing.
+kdeinit5: Got SETENV 'GTK_RC_FILES=/etc/gtk/gtkrc:/home/jose/.gtkrc:/home/jose/.config/gtkrc' from launcher.
+kdeinit5: Got SETENV 'GTK2_RC_FILES=/etc/gtk-2.0/gtkrc:/home/jose/.gtkrc-2.0:/home/jose/.config/gtkrc-2.0' from launcher.
+Initializing  "kcm_kgamma" :  "kcminit_kgamma"
+Initializing  "kded_touchpad" :  "kcminit_touchpad"
+kcm_touchpad: Using X11 backend
+kdeinit5: PID 1185 terminated.
+kdeinit5: Got KWRAPPER '/usr/bin/ksmserver' from wrapper.
+kdeinit5: preparing to launch '/usr/bin/ksmserver'
+detected kglobalaccel restarting, re-registering all shortcut keys
+
+kf5.kded: found kded module "printmanager" by prepending 'kded_' to the library path, please fix your metadata.
+Qt: Session management error: networkIdsList argument is NULL
+Configuring Lock Action
+ksmserver: "/run/user/1000/KSMserver"
+kdeinit5: Got SETENV 'SESSION_MANAGER=local/jose-VirtualBox:@/tmp/.ICE-unix/1214,unix/jose-VirtualBox:/tmp/.ICE-unix/1214' from launcher.
+ksmserver: KSMServer: SetAProc_loc: conn  0 , prot= local , file= @/tmp/.ICE-unix/1214
+ksmserver: KSMServer: SetAProc_loc: conn  1 , prot= unix , file= /tmp/.ICE-unix/1214
+ksmserver: KSMServer::restoreSession  "saved at previous logout"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/baloo_file.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/kdeconnectd.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/krunner.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pam_kwallet_init.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/plasmashell.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/polkit-kde-authentication-agent-1.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/xembedsniproxy.desktop"
+ksmserver: Autostart 0 done
+ksmserver: Kcminit phase 1 done
+Session path: "/org/freedesktop/login1/session/_33"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/pulseaudio.desktop"
+ksmserver: Autostart 1 done
+Loaded KAccounts plugin "/usr/lib/x86_64-linux-gnu/qt5/plugins/kaccounts/daemonplugins/kaccounts_ktp_plugin.so"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/akregator.upd' for new updates
+2017-11-07T09:58:30 akregator.upd: Found new update 'akregator-15.08-kickoff'
+2017-11-07T09:58:30 akregator.upd: Running script 'akregator-15.08-kickoff.sh'
+2017-11-07T09:58:30 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedy0BXoz: Permissão negada
+2017-11-07T09:58:30 akregator.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+2017-11-07T09:58:30 disable_kmix.upd: Found new update 'PlasmaVolume_DisableKMixAutostart'
+2017-11-07T09:58:30 disable_kmix.upd: File 'kmixrc' does not exist or empty, skipping
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2017-11-07T09:58:30 fonts_akregator.upd: Found new update 'Plasma_Fonts_Akregator'
+2017-11-07T09:58:30 fonts_akregator.upd: File 'akregatorrc' does not exist or empty, skipping
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2017-11-07T09:58:30 fonts_global.upd: Found new update 'Fonts_Global'
+2017-11-07T09:58:30 fonts_global.upd: Running script 'fonts_global.pl'
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+2017-11-07T09:58:30 fonts_kate.upd: Found new update 'Plasma_Fonts_Kate'
+2017-11-07T09:58:30 fonts_kate.upd: File 'kateschemarc' does not exist or empty, skipping
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+2017-11-07T09:58:30 gtkbreeze5.5.upd: Found new update 'GTKBreeze5.5'
+2017-11-07T09:58:30 gtkbreeze5.5.upd: Running script 'gtkbreeze5.5'
+2017-11-07T09:58:30 [Script] gtkbreeze: found gtktheme:  "/usr/share/themes/Breeze"
+2017-11-07T09:58:30 [Script] gtkbreeze: looking for "/home/jose/.gtkrc-2.0"
+2017-11-07T09:58:30 [Script] gtkbreeze: no gtkrc2 file or oxygen/orion being used, setting to new theme
+2017-11-07T09:58:30 [Script] gtkbreeze: gtk2rc written
+2017-11-07T09:58:30 [Script] gtkbreeze: found gtk3theme: "/usr/share/themes/Breeze"
+2017-11-07T09:58:30 [Script] gtkbreeze: looking for "/home/jose/.config/gtk-3.0/settings.ini"
+2017-11-07T09:58:30 [Script] gtkbreeze: no gtkrc3 file or oxygen/orion being used, setting to new theme
+2017-11-07T09:58:30 [Script] gtkbreeze: gtk3rc written
+2017-11-07T09:58:30 Checking update-file '/usr/share/kconf_update/importwizard.upd' for new updates
+2017-11-07T09:58:30 importwizard.upd: Found new update 'importwizard-15.08-kickoff'
+2017-11-07T09:58:30 importwizard.upd: Running script 'importwizard-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedwHC1mh: Permissão negada
+2017-11-07T09:58:31 importwizard.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kaddressbook.upd' for new updates
+2017-11-07T09:58:31 kaddressbook.upd: Found new update 'kaddressbook-15.08-kickoff'
+2017-11-07T09:58:31 kaddressbook.upd: Running script 'kaddressbook-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sed8mGxdg: Permissão negada
+2017-11-07T09:58:31 kaddressbook.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kcalcrc.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/kcalcrc.upd' will be skipped."
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+2017-11-07T09:58:31 kde4breeze.upd: Found new update '5.0KDE4Breeze_2'
+2017-11-07T09:58:31 kde4breeze.upd: Running script 'kde4breeze'
+2017-11-07T09:58:31 [Script] setting widget style: "Breeze" true
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kleopatra.upd' for new updates
+2017-11-07T09:58:31 kleopatra.upd: Found new update 'kleopatra-15.08-kickoff'
+2017-11-07T09:58:31 kleopatra.upd: Running script 'kleopatra-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedei8dNt: Permissão negada
+2017-11-07T09:58:31 kleopatra.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kmail.upd' for new updates
+2017-11-07T09:58:31 kmail.upd: Found new update 'kmail-15.08-kickoff'
+2017-11-07T09:58:31 kmail.upd: Running script 'kmail-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedOCPrQy: Permissão negada
+2017-11-07T09:58:31 kmail.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/knotes.upd' for new updates
+2017-11-07T09:58:31 knotes.upd: Found new update 'knotes-15.08-kickoff'
+2017-11-07T09:58:31 knotes.upd: Running script 'knotes-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedZyTiBx: Permissão negada
+2017-11-07T09:58:31 knotes.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kontact.upd' for new updates
+2017-11-07T09:58:31 kontact.upd: Found new update 'kontact-15.08-kickoff'
+2017-11-07T09:58:31 kontact.upd: Running script 'kontact-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedRIim4A: Permissão negada
+2017-11-07T09:58:31 kontact.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/konversation.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/konversation.upd' will be skipped."
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/korganizer.upd' for new updates
+2017-11-07T09:58:31 korganizer.upd: Found new update 'korganizer-15.08-kickoff'
+2017-11-07T09:58:31 korganizer.upd: Running script 'korganizer-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedWSYPJA: Permissão negada
+2017-11-07T09:58:31 korganizer.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/krdb_libpathwipe.upd' will be skipped."
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+2017-11-07T09:58:31 krunnerplugins.upd: Found new update '5.9KRunnerPlugins'
+2017-11-07T09:58:31 krunnerplugins.upd: Running script 'krunnerplugins'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+2017-11-07T09:58:31 kscreenlocker.upd: Found new update '0.1-autolock'
+2017-11-07T09:58:31 kscreenlocker.upd: File 'kscreenlockerrc' does not exist or empty, skipping
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/messageviewer.upd' for new updates
+2017-11-07T09:58:31 messageviewer.upd: Found new update 'messageviewer_move_gravatar'
+2017-11-07T09:58:31 messageviewer.upd: File 'kmail2rc' does not exist or empty, skipping
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/okular.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/okular.upd' will be skipped."
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/pimsettingexporter.upd' for new updates
+2017-11-07T09:58:31 pimsettingexporter.upd: Found new update 'pimsettingexporter-15.08-kickoff'
+2017-11-07T09:58:31 pimsettingexporter.upd: Running script 'pimsettingexporter-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sed0RDPpM: Permissão negada
+2017-11-07T09:58:31 pimsettingexporter.upd: !! An error occurred while running '/bin/sh'
+2017-11-07T09:58:31 Checking update-file '/usr/share/kconf_update/sieveeditor.upd' for new updates
+2017-11-07T09:58:31 sieveeditor.upd: Found new update 'sieveeditor-15.08-kickoff'
+2017-11-07T09:58:31 sieveeditor.upd: Running script 'sieveeditor-15.08-kickoff.sh'
+2017-11-07T09:58:31 [Script] sed: não foi possível abrir o arquivo temporário /etc/xdg/sedHtLV5P: Permissão negada
+2017-11-07T09:58:31 sieveeditor.upd: !! An error occurred while running '/bin/sh'
+"Missing \"Version=5\", file '/usr/share/kconf_update/kcalcrc.upd' will be skipped."
+"Missing \"Version=5\", file '/usr/share/kconf_update/konversation.upd' will be skipped."
+"Missing \"Version=5\", file '/usr/share/kconf_update/krdb_libpathwipe.upd' will be skipped."
+"Missing \"Version=5\", file '/usr/share/kconf_update/okular.upd' will be skipped."
+kdeinit5: PID 1257 terminated.
+System timezone has been changed, new timezone is "America/Sao_Paulo"
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+Trying to convert empty KLocalizedString to QString.
+org.kde.kcm_keyboard: Failed to open layout memory xml file for reading "/home/jose/.local/share/kded5/keyboard/session/layout_memory.xml" error: 5
+bluedevil: Created
+Installing the delayed initialization callback.
+kf5.kded: found kded module "notificationhelper" by prepending 'kded_' to the library path, please fix your metadata.
+kf5.kded: found kded module "touchpad" by prepending 'kded_' to the library path, please fix your metadata.
+kcm_touchpad: Using X11 backend
+ksmserver: Copying autostart files from "/home/jose/.kde//Autostart"
+ksmserver: Starting notification thread
+ksmserver: Kcminit phase 2 done
+ksmserver: autostart service "/usr/bin/start-pulseaudio-x11" finished with exit code  1
+ksmserver: Starting autostart service  "/etc/xdg/autostart/at-spi-dbus-bus.desktop"
+ksmserver: Starting autostart service  "/etc/xdg/autostart/powerdevil.desktop"
+ksmserver: Autostart 2 done
+ksmserver: autostart service "/usr/share/libpam-kwallet-common/pam_kwallet_init" finished with exit code  0
+Delayed initialization.
+Reloading the khotkeys configuration
+Version 2 File!
+Loaded defaults from "/usr/share/khotkeys/defaults.khotkeys"
+true
+Version 2 File!
+Imported file "/usr/share/khotkeys/spectacle.khotkeys"
+Version 2 File!
+Imported file "/usr/share/khotkeys/konqueror_gestures_kde321.khotkeys"
+Imported file "/usr/share/khotkeys/defaults.khotkeys"
+Version 2 File!
+Imported file "/usr/share/khotkeys/kde32b1.khotkeys"
+Starting accounts migration...
+bluedevil: Bluetooth operational changed false
+bluedevil: ObexManager operational changed false
+ktp-common-internals: Current presence changed
+ktp-common-internals: Current presence changed
+ksmserver: completeShutdownOrCheckpoint called
+QSqlQuery::value: not positioned on a valid record
+OpenGL vendor string:                   VMware, Inc.
+OpenGL renderer string:                 Gallium 0.4 on llvmpipe (LLVM 4.0, 256 bits)
+OpenGL version string:                  3.0 Mesa 17.0.3
+OpenGL shading language version string: 1.30
+Driver:                                 LLVMpipe
+GPU class:                              Unknown
+OpenGL version:                         3.0
+GLSL version:                           1.30
+Mesa version:                           17.0.3
+X server version:                       1.19.3
+Linux kernel version:                   4.10
+Requires strict binding:                yes
+GLSL shaders:                           yes
+Texture NPOT support:                   yes
+Virtual Machine:                        no
+kscreen.kded: Config KScreen::Config(0x56478f6d3440) is ready
+kscreen.kded: PowerDevil SuspendSession action not available!
+kscreen.kded: "The name org.kde.Solid.PowerManagement was not provided by any .service files"
+kscreen.kded: Applying config
+kscreen.kded: Applying ideal config
+kscreen.kded: Connected outputs:  1
+kscreen.kded: doApplyConfig()
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/jose/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-script.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+bluedevil: ObexManager operational changed true
+bluedevil: ObexAgent registered
+Service started, version: 7.0.0
+Cleaning up...
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1059, resource id: 58720260, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1063, resource id: 60817412, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 1067, resource id: 23068676, major code: 18 (ChangeProperty), minor code: 0
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+kf5.kcoreaddons.desktopparser: Could not locate service type file kservicetypes5/kwin-effect.desktop, tried ("/home/jose/.local/share", "/usr/share/usr/share/xsessions/plasma", "/usr/local/share", "/usr/share", "/var/lib/snapd/desktop")
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 2668, resource id: 10485792, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/desktop.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+BluezQt: PendingCall Error: "Failed to activate service 'org.bluez': timed out"
+Registering "org.kde.StatusNotifierHost-1222" as system tray
+()
+("/home/jose/Área de Trabalho/.directory")
+()
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "AllDevices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "Devices"
+networkmanager-qt: void NetworkManager::NetworkManagerPrivate::propertiesChanged(const QVariantMap&) Unhandled property "GlobalDnsConfiguration"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "LldpNeighbors"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "Real"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "S390Subchannels"
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/trash.so'
+()
+("/home/jose/Área de Trabalho/trash.desktop", "/home/jose/Área de Trabalho/Home.desktop")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 15084, resource id: 41943210, major code: 18 (ChangeProperty), minor code: 0
+ApportEvent :: hidden= false apport-kde= true apport-gtk= false
+Using ApportEvent
+""
+foundCrashFile false foundAutoUpload false
+KDE Languages: ()
+("pt_BR.UTF-8", "pt", "_BR", "BR", ".UTF-8", "UTF-8", "", "")
+System Language Matchables: ("pt_BR", "pt")
+Registering "org.kde.StatusNotifierItem-1184-1/StatusNotifierItem" to system tray
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 18156, resource id: 41943234, major code: 18 (ChangeProperty), minor code: 0
+QDBusArgument& operator<<(QDBusArgument&, const DeviceList&) is noop
+const QDBusArgument& operator>>(const QDBusArgument&, DeviceList&)
+Dev(
+  id: "cpu-microcode.py"
+  modalias: ""
+  model: ""
+  vendor: ""
+  driver("intel-microcode" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+Dev(
+  id: "/sys/devices/pci0000:00/0000:00:02.0"
+  modalias: "pci:v000080EEd0000BEEFsv00000000sd00000000bc03sc00i00"
+  model: "VirtualBox Graphics Adapter"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-x11" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+Dev(
+  id: "/sys/devices/pci0000:00/0000:00:04.0"
+  modalias: "pci:v000080EEd0000CAFEsv00000000sd00000000bc08sc80i00"
+  model: "VirtualBox Guest Service"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-dkms" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+)
+data  (Dev(
+  id: "cpu-microcode.py"
+  modalias: ""
+  model: ""
+  vendor: ""
+  driver("intel-microcode" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+), Dev(
+  id: "/sys/devices/pci0000:00/0000:00:02.0"
+  modalias: "pci:v000080EEd0000BEEFsv00000000sd00000000bc03sc00i00"
+  model: "VirtualBox Graphics Adapter"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-x11" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+), Dev(
+  id: "/sys/devices/pci0000:00/0000:00:04.0"
+  modalias: "pci:v000080EEd0000CAFEsv00000000sd00000000bc08sc80i00"
+  model: "VirtualBox Guest Service"
+  vendor: "InnoTek Systemberatung GmbH"
+  driver("virtualbox-guest-dkms" recommended[false] free[false] fromDistro[true] builtin[false] manualInstall[false] fuzzyActive[false] package[0x0])
+))
+Registering "org.kde.StatusNotifierItem-1184-2/StatusNotifierItem" to system tray
+kdeinit5: PID 1386 terminated.
+kdeinit5: PID 1406 terminated.
+kdeinit5: PID 1404 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 28661, resource id: 41943352, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 32873, resource id: 41943391, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33000, resource id: 60817410, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33031, resource id: 60817410, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 36283, resource id: 60817411, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 36442, resource id: 41943394, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 7382, resource id: 58720281, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 7575, resource id: 41943442, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 9670, resource id: 41943450, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/comandosshell/texto.txt")
+()
+()
+("/home/jose/comandosshell/diretorioearquivos")
+()
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen.kded: Current mode "66" invalid, setting preferred mode "713"
+kscreen.kded: doApplyConfig()
+kscreen.kded: Monitor for changes:  false
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen.kded: Current mode "66" invalid, setting preferred mode "713"
+kscreen.kded: doApplyConfig()
+kscreen.kded: Monitor for changes:  false
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/jose/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "713" )
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "713" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/jose/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "713" )
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "713" )
+kscreen.kded: Current mode "713" invalid, setting preferred mode "66"
+kscreen.kded: doApplyConfig()
+kscreen.kded: Monitor for changes:  false
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "713" )
+kscreen.kded: Current mode "713" invalid, setting preferred mode "66"
+kscreen.kded: doApplyConfig()
+kscreen.kded: Monitor for changes:  false
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Config applied
+kscreen.kded: Monitor for changes:  true
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/jose/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen: Requesting missing EDID for outputs (64)
+kscreen.kded: Change detected
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+kscreen.kded: Saving current config to file
+kscreen.kded: Config saved on:  "/home/jose/.local/share/kscreen/6d06a8dedf129eba6122fca801da504f"
+kscreen.kded: KScreen::Output( 64   "VGA-1" connected enabled QPoint(0,0) QSize(1600, 795) "66" )
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 32764, resource id: 65011728, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+kdeinit5: PID 1388 terminated.
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+lock called
+Lock window Id:  29360134
+CreateNotify: 29360134
+CreateNotify: 29360136
+UnmapNotify: 29360134
+CreateNotify: 60817411
+CreateNotify: 60817417
+CreateNotify: 60817421
+CreateNotify: 60817423
+CreateNotify: 60817425
+MapNotify: 60817423
+MapNotify: 29360134
+CreateNotify: 60817427
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 60817423
+UnmapNotify: 60817423
+CreateNotify: 60817437
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 12035, resource id: 60817437, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: PID 3219 terminated.
+()
+("/home/jose/comandosshell/kate/muitoscomandos.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 41687, resource id: 60817423, major code: 25 (SendEvent), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 41688, resource id: 60817423, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 43366, resource id: 60817436, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/novo/texto.txt")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+()
+("/home/jose/pasta1/teste.txt")
+()
+()
+("/home/jose/pasta1/teste.txt")
+()
+()
+("/home/jose/pasta1/teste.txt")
+()
+kdeinit5: PID 3348 terminated.
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+lock called
+Lock window Id:  29360140
+CreateNotify: 29360140
+UnmapNotify: 29360140
+CreateNotify: 60817411
+CreateNotify: 60817417
+CreateNotify: 60817421
+CreateNotify: 60817423
+CreateNotify: 60817425
+MapNotify: 60817423
+MapNotify: 29360140
+CreateNotify: 60817427
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 60817423
+UnmapNotify: 60817423
+CreateNotify: 60817433
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11751, resource id: 60817423, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11755, resource id: 60817433, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/listarecopiar")
+()
+kdeinit5: PID 3438 terminated.
+()
+("/home/jose/comandosshell/listarecopiar")
+()
+()
+("/home/jose/comandosshell/listarecopiar")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/listarecopiar.sh")
+()
+()
+("/home/jose/Documentos/texto.txt")
+()
+kdeinit5: PID 3462 terminated.
+()
+("/home/jose/comandosshell/listarecopiar.sh")
+()
+()
+("/home/jose/comandosshell/diretorioearquivos.sh")
+()
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "RxBytes"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "TxBytes"
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 56108, resource id: 60817416, major code: 18 (ChangeProperty), minor code: 0
+"No such interface 'org.freedesktop.DBus.Properties' on object at path /"
+"No such interface 'org.freedesktop.DBus.Properties' on object at path /org/freedesktop/NetworkManager/ActiveConnection/0"
+plasma-nm: Unhandled active connection state change:  1
+()
+("/home/jose/Documentos/today.sh")
+()
+QXcbWindow: Unhandled client message: "_NET_CURRENT_DESKTOP"
+QXcbWindow: Unhandled client message: "_NET_CURRENT_DESKTOP"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 59209, resource id: 58720293, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 59977, resource id: 41943699, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/comandosshell/today.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/hoje.sh")
+()
+kdeinit5: PID 3697 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/Myname.sh")
+()
+kdeinit5: PID 3712 terminated.
+()
+("/home/jose/comandosshell/Myname.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/parametros.sh")
+()
+()
+("/home/jose/comandosshell/parametros.sh")
+()
+()
+("/home/jose/comandosshell/parametros.sh")
+()
+kdeinit5: PID 3769 terminated.
+()
+("/home/jose/comandosshell/parametros.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/primeirodialogo.sh")
+()
+kdeinit5: PID 3814 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 55386, resource id: 41944040, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/primeirodialogo.sh")
+()
+()
+("/home/jose/comandosshell/primeirodialogo.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+kdeinit5: PID 5458 terminated.
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+()
+("/home/jose/comandosshell/segundodialogo.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+kdeinit5: PID 5526 terminated.
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+()
+("/home/jose/comandosshell/dialogocalendario.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+kdeinit5: PID 5590 terminated.
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+lock called
+Lock window Id:  29360145
+CreateNotify: 29360145
+UnmapNotify: 29360145
+CreateNotify: 60817411
+CreateNotify: 60817417
+CreateNotify: 60817421
+CreateNotify: 60817423
+CreateNotify: 60817425
+MapNotify: 60817423
+MapNotify: 29360145
+CreateNotify: 60817427
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 60817423
+UnmapNotify: 60817423
+CreateNotify: 60817437
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 38174, resource id: 60817423, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 38178, resource id: 60817437, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/thumbnail.so'
+Qt: Session management error: networkIdsList argument is NULL
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+kdeinit5: PID 5740 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 45420, resource id: 41944351, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+()
+("/home/jose/comandosshell/selecionararquivosdialogo.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 57849, resource id: 60817412, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 5741 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 58809, resource id: 10486657, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+kdeinit5: PID 5744 terminated.
+kdeinit5: PID 5764 terminated.
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+()
+("/home/jose/comandosshell/checklistdialogo.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 35741, resource id: 41944592, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 35959, resource id: 60817410, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42294, resource id: 10486704, major code: 19 (DeleteProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42305, resource id: 10486704, major code: 19 (DeleteProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42306, resource id: 10486704, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42307, resource id: 10486704, major code: 19 (DeleteProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42308, resource id: 10486704, major code: 19 (DeleteProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42309, resource id: 10486704, major code: 19 (DeleteProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42310, resource id: 10486704, major code: 7 (ReparentWindow), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42311, resource id: 10486704, major code: 6 (ChangeSaveSet), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42312, resource id: 10486704, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42313, resource id: 10486704, major code: 10 (UnmapWindow), minor code: 0
+()
+("/home/jose/comandosshell/dialogosimples.sh")
+()
+()
+("/home/jose/comandosshell/dialogosimples.sh")
+()
+kdeinit5: PID 5897 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+()
+("/home/jose/comandosshell/dialogosimples.sh")
+()
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+kdeinit5: PID 5928 terminated.
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/ifcomdialogo.sh")
+()
+kdeinit5: PID 5996 terminated.
+()
+("/home/jose/comandosshell/ifcomdialogo.sh")
+()
+()
+("/home/jose/comandosshell/ifcomdialogo.sh")
+()
+()
+("/home/jose/comandosshell/ifcomdialogo.sh")
+()
+lock called
+Lock window Id:  29360150
+CreateNotify: 29360150
+UnmapNotify: 29360150
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 29360150
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108889
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42264, resource id: 67108879, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42268, resource id: 67108889, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 52276, resource id: 67108870, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 52305, resource id: 67108879, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+kdeinit5: PID 6082 terminated.
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "RxBytes"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "TxBytes"
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42227, resource id: 67108872, major code: 18 (ChangeProperty), minor code: 0
+"No such interface 'org.freedesktop.DBus.Properties' on object at path /"
+plasma-nm: Unhandled active connection state change:  1
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+()
+("/home/jose/comandosshell/menu.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+kdeinit5: PID 6376 terminated.
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+()
+("/home/jose/comandosshell/Dialogoentrada.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 57910, resource id: 58720299, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 57914, resource id: 41944730, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 58762, resource id: 41944742, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 6443 terminated.
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+()
+("/home/jose/comandosshell/DIalogoradio.sh")
+()
+lock called
+Lock window Id:  29360155
+CreateNotify: 29360155
+UnmapNotify: 29360155
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 29360155
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108889
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 13913, resource id: 67108889, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+lock called
+Lock window Id:  29360160
+CreateNotify: 29360160
+UnmapNotify: 29360160
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 29360160
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108889
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 9356, resource id: 67108889, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 26853, resource id: 10487192, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 28268, resource id: 10487197, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/senhadialogo.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+kdeinit5: PID 6653 terminated.
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+kdeinit5: PID 6963 terminated.
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+()
+("/home/jose/comandosshell/teste.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 30980, resource id: 58720295, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 30984, resource id: 41944781, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+()
+("/home/jose/comandosshell/cadastramento.sh")
+()
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 36940, resource id: 58720264, major code: 18 (ChangeProperty), minor code: 0
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "RxBytes"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "TxBytes"
+lock called
+Lock window Id:  29360166
+CreateNotify: 29360166
+UnmapNotify: 29360166
+CreateNotify: 58720259
+CreateNotify: 58720265
+CreateNotify: 58720269
+CreateNotify: 58720271
+CreateNotify: 58720273
+MapNotify: 58720271
+MapNotify: 29360166
+CreateNotify: 58720275
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+Time engine Clock skew signaled
+ktp-kded-module: 
+UnmapNotify: 58720271
+UnmapNotify: 58720271
+CreateNotify: 58720281
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 61784, resource id: 58720281, major code: 18 (ChangeProperty), minor code: 0
+lock called
+Lock window Id:  29360172
+CreateNotify: 29360172
+UnmapNotify: 29360172
+CreateNotify: 58720259
+CreateNotify: 58720265
+CreateNotify: 58720269
+CreateNotify: 58720271
+CreateNotify: 58720273
+MapNotify: 58720271
+MapNotify: 29360172
+CreateNotify: 58720275
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 58720271
+UnmapNotify: 58720271
+CreateNotify: 58720281
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11377, resource id: 58720271, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11381, resource id: 58720281, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/instalacaodogoogle.sh")
+()
+kdeinit5: PID 7585 terminated.
+()
+("/home/jose/comandosshell/instalacaodogoogle.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 17758, resource id: 41944862, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/comandosshell/google-chrome-stable_current_amd64.deb")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/1intalacaovlc.sh")
+()
+()
+("/home/jose/comandosshell/google-chrome-stable_current_amd64.deb")
+()
+()
+("/home/jose/comandosshell/1intalacaovlc.sh")
+()
+()
+("/home/jose/comandosshell/2intalacaodojava.sh")
+()
+kdeinit5: PID 7651 terminated.
+()
+("/home/jose/comandosshell/2intalacaodojava.sh")
+()
+()
+("/home/jose/comandosshell/2intalacaodojava.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/3intalacaodoapache.sh")
+()
+()
+("/home/jose/comandosshell/3intalacaodoapache.sh")
+()
+()
+("/home/jose/comandosshell/4instacaomysql.sh")
+()
+kdeinit5: PID 7698 terminated.
+lock called
+Lock window Id:  29360177
+CreateNotify: 29360177
+UnmapNotify: 29360177
+CreateNotify: 67108867
+CreateNotify: 67108873
+CreateNotify: 67108877
+CreateNotify: 67108879
+CreateNotify: 67108881
+MapNotify: 67108879
+MapNotify: 29360177
+CreateNotify: 67108883
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 67108879
+UnmapNotify: 67108879
+CreateNotify: 67108897
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 32332, resource id: 67108897, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+()
+("/home/jose/comandosshell/4instacaomysql.sh")
+()
+()
+("/home/jose/comandosshell/4instacaomysql.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/5instalacaophp.sh")
+()
+()
+("/home/jose/comandosshell/5instalacaophp.sh")
+()
+()
+("/home/jose/comandosshell/5instalacaophp.sh")
+()
+kdeinit5: PID 7781 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/6instalacaodovscode.sh")
+()
+()
+("/home/jose/comandosshell/6instalacaodovscode.sh")
+()
+kdeinit5: PID 7812 terminated.
+()
+("/home/jose/comandosshell/6instalacaodovscode.sh")
+()
+()
+()
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/7instalacaomariadb.sh")
+()
+()
+("/home/jose/comandosshell/7instalacaomariadb.sh")
+()
+kdeinit5: PID 8197 terminated.
+()
+("/home/jose/comandosshell/7instalacaomariadb.sh")
+()
+()
+("/home/jose/comandosshell/7instalacaomariadb.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+kdeinit5: PID 8955 terminated.
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+()
+("/home/jose/comandosshell/8instalacaosublime.sh")
+()
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/file.so'
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+kdeinit5: PID 10988 terminated.
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "RxBytes"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "TxBytes"
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 46808, resource id: 67108872, major code: 18 (ChangeProperty), minor code: 0
+()
+()
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 64658, resource id: 10487856, major code: 20 (GetProperty), minor code: 0
+"/org/freedesktop/UDisks2/block_devices/loop0" has new interfaces: ("org.freedesktop.UDisks2.Filesystem")
+QObject::connect: invalid null parameter
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Waiting for already running kbuildsycoca5 to finish.
+Waiting for already running kbuildsycoca5 to finish.
+Waiting for already running kbuildsycoca5 to finish.
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+Saving
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+Initializing  "kcm_input" :  "kcminit_mouse"
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 29908, resource id: 67108872, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 29912, resource id: 73400328, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 29916, resource id: 71303176, major code: 18 (ChangeProperty), minor code: 0
+"/org/freedesktop/UDisks2/block_devices/loop1" has new interfaces: ("org.freedesktop.UDisks2.Filesystem")
+QObject::connect: invalid null parameter
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33822, resource id: 41945453, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/http.so' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/qt5/plugins/kf5/kio/http.so'
+kdeinit5: Got EXT_EXEC '/usr/bin/firefox' from launcher.
+kdeinit5: preparing to launch '/usr/bin/firefox'
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54473, resource id: 79691776, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54477, resource id: 79691777, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54486, resource id: 73400324, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 57291, resource id: 73400322, major code: 18 (ChangeProperty), minor code: 0
+kdeinit5: PID 12951 terminated.
+kdeinit5: PID 12945 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 2482, resource id: 67108905, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/comandosshell/9instalcaocompleta.sh")
+()
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/python3.5.desktop"
+Saving
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("xdgdata-mime", "apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/apport-kde-mime.desktop"
+Saving
+lock called
+Lock window Id:  29360182
+CreateNotify: 29360182
+UnmapNotify: 29360182
+CreateNotify: 73400323
+CreateNotify: 73400329
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+CreateNotify: 73400333
+CreateNotify: 73400335
+CreateNotify: 73400337
+MapNotify: 73400335
+CreateNotify: 73400339
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/firefox.desktop"
+Saving
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+MapNotify: 29360182
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/org.kde.k3b.desktop"
+modified: "/usr/share/applications/display-im6.q16.desktop"
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:32:26 Checking update-file '/usr/share/kconf_update/gtkbreeze5.5.upd' for new updates
+kdeinit5: PID 17724 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "packages/x-k3b.xml"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+kdeinit5: PID 17734 terminated.
+Waiting for already running kbuildsycoca5 to finish.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:32:39 Checking update-file '/usr/share/kconf_update/kscreenlocker.upd' for new updates
+kdeinit5: PID 17822 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+kdeinit5: PID 17826 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:33:12 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+kdeinit5: PID 18145 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:33:15 Checking update-file '/usr/share/kconf_update/kde4breeze.upd' for new updates
+kdeinit5: PID 18162 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "filetypes.desktop"
+modified: "breezestyleconfig.desktop"
+modified: "breezedecorationconfig.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:33:26 Checking update-file '/usr/share/kconf_update/fonts_akregator.upd' for new updates
+2017-11-13T09:33:26 Checking update-file '/usr/share/kconf_update/fonts_global.upd' for new updates
+2017-11-13T09:33:26 Checking update-file '/usr/share/kconf_update/fonts_kate.upd' for new updates
+kdeinit5: PID 18274 terminated.
+Waiting for already running kbuildsycoca5 to finish.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+kdeinit5: PID 18286 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:33:50 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+kdeinit5: PID 18396 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "plasma-geolocation-ip.desktop"
+modified: "plasma-dataengine-share-addon-imgsusepasteorg.desktop"
+modified: "plasma-applet-org.kde.plasma.lock_logout.desktop"
+modified: "plasma-dataengine-filebrowser.desktop"
+modified: "plasma-dataengine-share-addon-pastebincom.desktop"
+modified: "plasma-runner-windows.desktop"
+modified: "plasma-dataengine-geolocation.desktop"
+modified: "plasma-dataengine-activities.desktop"
+modified: "recentdocuments.desktop"
+modified: "plasma-dataengine-share-addon-wklej.desktop"
+modified: "plasma-dataengine-share-addon-privatepastecom.desktop"
+modified: "plasma-applet-org.kde.plasma.clipboard.desktop"
+modified: "plasma-dataengine-share-addon-kde.desktop"
+modified: "plasma-dataengine-statusnotifieritem.desktop"
+modified: "plasma-dataengine-notifications.desktop"
+modified: "plasma-wallpaper-org.kde.image.desktop"
+modified: "plasma-dataengine-packagekit.desktop"
+modified: "plasma-dataengine-executable.desktop"
+modified: "plasma-dataengine-clipboard.desktop"
+modified: "plasma-applet-org.kde.plasma.battery.desktop"
+modified: "plasma-applet-org.kde.plasma.systemmonitor.memory.desktop"
+modified: "plasma-runner-locations.desktop"
+modified: "plasma-applet-org.kde.plasma.icon.desktop"
+modified: "plasma-applet-org.kde.plasma.systemmonitor.diskactivity.desktop"
+modified: "plasma-applet-org.kde.plasma.digitalclock.desktop"
+modified: "plasma-applet-org.kde.plasma.mediacontroller.desktop"
+modified: "plasma-applet-org.kde.plasma.devicenotifier.desktop"
+modified: "plasma-applet-org.kde.plasma.systemmonitor.cpu.desktop"
+modified: "plasma-containmentactions-paste.desktop"
+modified: "plasma-dataengine-systemmonitor.desktop"
+modified: "plasma-runner-activityrunner.desktop"
+modified: "ion-noaa.desktop"
+modified: "plasma-dataengine-keystate.desktop"
+modified: "plasma-runner-places.desktop"
+modified: "plasma-dataengine-applicationjobs.desktop"
+modified: "plasma-dataengine-share-addon-im9.desktop"
+modified: "plasma-dataengine-weather.desktop"
+modified: "plasma-runner-webshortcuts.desktop"
+modified: "plasma-runner-calculator.desktop"
+modified: "plasma-dataengine-share-addon-pasteopensuseorg.desktop"
+modified: "plasma-dataengine-mouse.desktop"
+modified: "plasma-dataengine-devicenotifications.desktop"
+modified: "ion-envcan.desktop"
+modified: "plasma-dataengine-soliddevice.desktop"
+modified: "plasma-runner-kill_config.desktop"
+modified: "plasma-lookandfeel-org.kde.breeze.desktop.desktop"
+modified: "plasma-runner-powerdevil.desktop"
+modified: "plasma-dataengine-time.desktop"
+modified: "plasma-applet-org.kde.plasma.activitybar.desktop"
+modified: "plasma-applet-org.kde.plasma.appmenu.desktop"
+modified: "plasma-containmentactions-switchactivity.desktop"
+modified: "plasma-dataengine-apps.desktop"
+modified: "plasma-runner-kill.desktop"
+modified: "plasma-runner-shell.desktop"
+modified: "plasma-applet-org.kde.plasma.analogclock.desktop"
+modified: "plasma-dataengine-share-addon-imgur.desktop"
+modified: "plasma-containmentactions-applauncher.desktop"
+modified: "plasma-dataengine-hotplug.desktop"
+modified: "plasma-applet-org.kde.plasma.private.systemtray.desktop"
+modified: "plasma-applet-org.kde.plasma.panelspacer.desktop"
+modified: "plasma-dataengine-places.desktop"
+modified: "plasma-containmentactions-switchwindow.desktop"
+modified: "plasma-dataengine-mpris2.desktop"
+modified: "plasma-wallpaper-org.kde.color.desktop"
+modified: "plasma-runner-bookmarks.desktop"
+modified: "kuiserver.desktop"
+modified: "plasma-applet-org.kde.plasma.notifications.desktop"
+modified: "plasma-dataengine-share-addon-pasteubuntucom.desktop"
+modified: "plasma-runner-sessions.desktop"
+modified: "plasma-applet-org.kde.plasma.systemmonitor.diskusage.desktop"
+modified: "plasma-geolocation-gps.desktop"
+modified: "plasma-runner-services.desktop"
+modified: "plasma-runner-windowedwidgets.desktop"
+modified: "plasma-applet-org.kde.plasma.systemmonitor.net.desktop"
+modified: "plasma-dataengine-share-addon-simplestimagehosting.desktop"
+modified: "plasma-dataengine-powermanagement.desktop"
+modified: "plasma-dataengine-dict.desktop"
+modified: "ion-wettercom.desktop"
+modified: "plasma-applet-org.kde.plasma.calendar.desktop"
+modified: "plasma-dataengine-share-addon-wstaw.desktop"
+modified: "plasma-wallpaper-org.kde.slideshow.desktop"
+modified: "plasma-dataengine-favicons.desktop"
+modified: "plasma-containmentactions-contextmenu.desktop"
+modified: "plasma-containmentactions-switchdesktop.desktop"
+modified: "plasma-applet-org.kde.plasma.systemtray.desktop"
+modified: "plasma-runner-baloosearch.desktop"
+modified: "plasma-dataengine-share.desktop"
+modified: "ion-bbcukmet.desktop"
+modified: "plasma-layouttemplate.desktop"
+modified: "phononbackend.desktop"
+modified: "plasma_shareprovider.desktop"
+modified: "plasma-geolocationprovider.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/plasma-windowed.desktop"
+modified: "/usr/share/applications/org.kde.klipper.desktop"
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:33:54 Checking update-file '/usr/share/kconf_update/krunnerplugins.upd' for new updates
+kdeinit5: PID 18417 terminated.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+kdeinit5: PID 18439 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/org.kde.kfontview.desktop"
+modified: "/usr/share/applications/org.kde.knetattach.desktop"
+modified: "/usr/share/applications/org.kde.kcolorschemeeditor.desktop"
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:34:02 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/krdb_libpathwipe.upd' will be skipped."
+kdeinit5: PID 18467 terminated.
+Waiting for already running kbuildsycoca5 to finish.
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:34:06 Checking update-file '/usr/share/kconf_update/krdb_libpathwipe.upd' for new updates
+"Missing \"Version=5\", file '/usr/share/kconf_update/krdb_libpathwipe.upd' will be skipped."
+kdeinit5: PID 18477 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "kwin/kwin4_effect_eyeonscreen.desktop"
+modified: "kwinfocus.desktop"
+modified: "plasma-runner-converter.desktop"
+modified: "plasma-runner-spellchecker.desktop"
+modified: "plasma-runner-dictionary.desktop"
+modified: "kwin/kwin4_decoration_qml_plastik.desktop"
+modified: "k3bwavedecoder.desktop"
+modified: "kwin/kwin4_window_switcher_big_icons.desktop"
+modified: "kwinmoving.desktop"
+modified: "k3bmaddecoder.desktop"
+modified: "kwin/kwin4_window_switcher_thumbnails.desktop"
+modified: "nic.desktop"
+modified: "lostfoundcategory.desktop"
+modified: "kcmkwineffects.desktop"
+modified: "kwinoptions.desktop"
+modified: "kwin/kwin4_desktop_switcher_previews.desktop"
+modified: "kwin/kwin4_effect_dialogparent.desktop"
+modified: "k3boggvorbisencoder.desktop"
+modified: "opengl.desktop"
+modified: "k3bsoxencoder.desktop"
+modified: "kwinadvanced.desktop"
+modified: "interrupts.desktop"
+modified: "kcm_memory.desktop"
+modified: "kwindecoration.desktop"
+modified: "k3bmpcdecoder.desktop"
+modified: "plasma-runner-spellchecker_config.desktop"
+modified: "kcm_k3bexternalencoder.desktop"
+modified: "kwin/kwin4_effect_login.desktop"
+modified: "kwinscreenedges.desktop"
+modified: "kwin/kwin4_window_switcher_present_windows.desktop"
+modified: "kwin/kwin4_window_switcher_compact.desktop"
+modified: "k3bflacdecoder.desktop"
+modified: "kwincompositing.desktop"
+modified: "k3blameencoder.desktop"
+modified: "kwin-script-desktopchangeosd.desktop"
+modified: "kwin/kwin4_effect_morphingpopups.desktop"
+modified: "kcm_energyinfo.desktop"
+modified: "kwin-script-minimizeall.desktop"
+modified: "kwin/kwin4_window_switcher_small_icons.desktop"
+modified: "kwin/kwin4_effect_fadedesktop.desktop"
+modified: "about-distro.desktop"
+modified: "kwintabbox.desktop"
+modified: "kwin-script-enforcedeco.desktop"
+modified: "kwin/kwin4_effect_windowaperture.desktop"
+modified: "wayland.desktop"
+modified: "graphicalinfocategory.desktop"
+modified: "desktop.desktop"
+modified: "kcm_k3bsoxencoder.desktop"
+modified: "dma.desktop"
+modified: "ioports.desktop"
+modified: "plasma-runner-dictionary_config.desktop"
+modified: "k3blibsndfiledecoder.desktop"
+modified: "kwin/kwin4_window_switcher_informative.desktop"
+modified: "kgamma.desktop"
+modified: "kwinscripts.desktop"
+modified: "kwinactions.desktop"
+modified: "kwin/kwin4_effect_fade.desktop"
+modified: "kwin/kwin4_effect_translucency.desktop"
+modified: "deviceinfocategory.desktop"
+modified: "xserver.desktop"
+modified: "kwin/kwin4_effect_scalein.desktop"
+modified: "kcmview1394.desktop"
+modified: "kwinrules.desktop"
+modified: "k3boggvorbisdecoder.desktop"
+modified: "kcmusb.desktop"
+modified: "kwin/kwin4_window_switcher_text.desktop"
+modified: "kcm_k3blameencoder.desktop"
+modified: "devinfo.desktop"
+modified: "kcm_pci.desktop"
+modified: "kwin-script-videowall.desktop"
+modified: "networkinfocategory.desktop"
+modified: "kcm_k3boggvorbisencoder.desktop"
+modified: "kwin-script-synchronizeskipswitcher.desktop"
+modified: "plasma-runner-datetime.desktop"
+modified: "kwin/kwin4_effect_maximize.desktop"
+modified: "k3bexternalencoder.desktop"
+modified: "kcm_fileindexermonitor.desktop"
+modified: "smbstatus.desktop"
+modified: "kwinscript.desktop"
+modified: "kwindesktopswitcher.desktop"
+modified: "kwinwindowswitcher.desktop"
+modified: "kwindecoration.desktop"
+modified: "kinfocentercategory.desktop"
+modified: "kwineffect.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/org.kde.ksysguard.desktop"
+modified: "/usr/share/applications/org.kde.kinfocenter.desktop"
+modified: "/usr/share/applications/org.kde.kmenuedit.desktop"
+Saving
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/openjdk-8-policytool.desktop"
+modified: "/usr/share/applications/openjdk-8-java.desktop"
+modified: "/usr/share/applications/org.kde.discover.desktop"
+Saving
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update' from launcher.
+kdeinit5: preparing to launch '/usr/lib/x86_64-linux-gnu/libexec/kf5/kconf_update'
+2017-11-13T09:38:30 Checking update-file '/usr/share/kconf_update/disable_kmix.upd' for new updates
+kdeinit5: PID 19342 terminated.
+ktp-kded-module: 
+UnmapNotify: 73400335
+UnmapNotify: 73400335
+CreateNotify: 73400353
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 39133, resource id: 73400353, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "settings-hardware-display.desktop"
+modified: "settings-personalization-applications.desktop"
+modified: "settings-workspace-shortcuts.desktop"
+modified: "settings-classic-view.desktop"
+modified: "settings-workspace-windowmanagement.desktop"
+modified: "settings-network-networksettings.desktop"
+modified: "settings-appearance-font.desktop"
+modified: "settings-network-connectivity.desktop"
+modified: "settings-appearance.desktop"
+modified: "settings-appearance-color.desktop"
+modified: "settings-personalization-notification.desktop"
+modified: "settings-workspace.desktop"
+modified: "settings-hardware-multimedia.desktop"
+modified: "settings-hardware-powermanagement.desktop"
+modified: "settings-network.desktop"
+modified: "settings-workspace-session.desktop"
+modified: "settings-appearance-icons.desktop"
+modified: "settings-appearance-applicationstyle.desktop"
+modified: "settings-personalization-regionalsettings.desktop"
+modified: "settings-hardware-peripherals.desktop"
+modified: "settings-hardware-input.desktop"
+modified: "settings-network-bluetooth.desktop"
+modified: "settings-hardware.desktop"
+modified: "settings-personalization.desktop"
+modified: "settings-personalization-accountdetails.desktop"
+modified: "settings-hardware-removable-storage.desktop"
+modified: "settings-appearance-workspacetheme.desktop"
+modified: "settings-workspace-search.desktop"
+modified: "settings-icon-view.desktop"
+modified: "settings-workspace-desktopbehavior.desktop"
+modified: "systemsettingsexternalapp.desktop"
+modified: "systemsettingsview.desktop"
+modified: "systemsettingscategory.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+modified: "/usr/share/applications/kdesystemsettings.desktop"
+modified: "/usr/share/applications/systemsettings.desktop"
+Saving
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "kcm_sddm.desktop"
+modified: "oxygenstyleconfig.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "kcm_kscreen.desktop"
+modified: "khotkeys.desktop"
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 45639, resource id: 67109084, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 46920, resource id: 67109315, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54347, resource id: 10487902, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 54980, resource id: 41945525, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 60138, resource id: 65011877, major code: 15 (QueryTree), minor code: 0
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+modified: "inode/vnd.kde.service.appletv-itunes.xml"
+modified: "application/vnd.ms-excel.sheet.macroenabled.12.xml"
+modified: "application/vnd.oasis.opendocument.presentation.xml"
+modified: "application/x-mswrite.xml"
+modified: "text/x-idl.xml"
+modified: "video/x-matroska-3d.xml"
+modified: "inode/vnd.kde.service.dacp.xml"
+modified: "application/x-zerosize.xml"
+modified: "application/x-ace.xml"
+modified: "application/x-wwf.xml"
+modified: "application/vnd.oasis.opendocument.database.xml"
+modified: "application/x-mobipocket-ebook.xml"
+modified: "application/x-lrzip-compressed-tar.xml"
+modified: "text/x-rpm-spec.xml"
+modified: "text/x-nfo.xml"
+modified: "application/x-xz-compressed-tar.xml"
+modified: "application/x-font-ttx.xml"
+modified: "application/vnd.oasis.opendocument.presentation-template.xml"
+modified: "application/x-arj.xml"
+modified: "application/x-kword-crypt.xml"
+modified: "text/x-moc.xml"
+modified: "inode/vnd.kde.service.ggz.xml"
+modified: "text/x-xmi.xml"
+modified: "image/x-pic.xml"
+modified: "application/x-xar.xml"
+modified: "text/x-troff-ms.xml"
+modified: "inode/vnd.kde.service.odisk.xml"
+modified: "image/x-xbitmap.xml"
+modified: "application/xsd.xml"
+modified: "text/cache-manifest.xml"
+modified: "application/x-kspread.xml"
+modified: "application/x-shared-library-la.xml"
+modified: "text/x-dcl.xml"
+modified: "inode/vnd.kde.service.adobe-vc.xml"
+modified: "application/x-kcsrc.xml"
+modified: "application/x-hdf.xml"
+modified: "application/x-magicpoint.xml"
+modified: "application/vnd.ms-powerpoint.template.macroenabled.12.xml"
+modified: "video/x-sgi-movie.xml"
+modified: "text/x-go.xml"
+modified: "text/x-literate-haskell.xml"
+modified: "application/x-krita.xml"
+modified: "inode/vnd.kde.service.maemo-inf.xml"
+modified: "application/x-neo-geo-pocket-rom.xml"
+modified: "application/x-kword.xml"
+modified: "text/x-ssa.xml"
+modified: "application/x-k3b.xml"
+modified: "image/x-sun-raster.xml"
+modified: "application/vnd.mozilla.xul+xml.xml"
+modified: "application/x-gzdvi.xml"
+modified: "application/x-jbuilder-project.xml"
+modified: "audio/x-m4b.xml"
+modified: "application/x-kontour.xml"
+modified: "audio/mp2.xml"
+modified: "application/x-lzop.xml"
+modified: "application/vnd.oasis.opendocument.text-flat-xml.xml"
+modified: "application/vnd.rn-realmedia.xml"
+modified: "inode/vnd.kde.bluedevil.device.xml"
+modified: "application/x-planperfect.xml"
+modified: "application/x-zoo.xml"
+modified: "image/x-dib.xml"
+modified: "text/x-uri.xml"
+modified: "inode/vnd.kde.service.upnp.raclient1.xml"
+modified: "application/x-dbf.xml"
+modified: "application/oda.xml"
+modified: "application/x-blender.xml"
+modified: "application/x-bzip.xml"
+modified: "application/x-vnd.kde.alarm.template.xml"
+modified: "video/x-javafx.xml"
+modified: "application/x-gdbm.xml"
+modified: "text/x-emacs-lisp.xml"
+modified: "application/x-t602.xml"
+modified: "application/x-designer.xml"
+modified: "x-content/audio-player.xml"
+modified: "text/x-erlang.xml"
+modified: "image/x-exr.xml"
+modified: "application/x-netshow-channel.xml"
+modified: "application/x-superkaramba.xml"
+modified: "application/x-gameboy-color-rom.xml"
+modified: "inode/vnd.kde.service.sip.xml"
+modified: "application/x-sv4cpio.xml"
+modified: "application/x-ufraw.xml"
+modified: "text/x-readme.xml"
+modified: "inode/vnd.kde.service.pulse-server.xml"
+modified: "application/x-gzpostscript.xml"
+modified: "application/x-accountwizard-package.xml"
+modified: "application/x-apple-diskimage.xml"
+modified: "application/x-gnumeric.xml"
+modified: "text/x-lilypond.xml"
+modified: "text/x-ocaml.xml"
+modified: "application/vnd.hp-pcl.xml"
+modified: "inode/blockdevice.xml"
+modified: "text/x-csharp.xml"
+modified: "application/owl+xml.xml"
+modified: "text/x-scala.xml"
+modified: "audio/x-xm.xml"
+modified: "application/x-lz4-compressed-tar.xml"
+modified: "application/vnd.sun.xml.calc.template.xml"
+modified: "text/x-gherkin.xml"
+modified: "audio/x-flac+ogg.xml"
+modified: "application/ecmascript.xml"
+modified: "application/x-killustrator.xml"
+modified: "text/x-verilog.xml"
+modified: "application/x-tar.xml"
+modified: "text/x-cobol.xml"
+modified: "image/gif.xml"
+modified: "application/x-vnd.kde.plan.xml"
+modified: "inode/vnd.kde.service.upnp.mediarenderer1.xml"
+modified: "inode/vnd.kde.network.xml"
+modified: "application/x-gzpdf.xml"
+modified: "application/x-font-afm.xml"
+modified: "image/x-jng.xml"
+modified: "inode/vnd.kde.service.upnp.printerenhanced1.xml"
+modified: "inode/vnd.kde.service.xmpp-server.xml"
+modified: "audio/x-tta.xml"
+modified: "application/gzip.xml"
+modified: "text/x-mof.xml"
+modified: "application/vnd.ms-tnef.xml"
+modified: "application/vnd.ms-visio.template.macroenabled.main+xml.xml"
+modified: "text/xmcd.xml"
+modified: "text/x-matlab.xml"
+modified: "application/epub+zip.xml"
+modified: "video/x-mng.xml"
+modified: "inode/vnd.kde.service.ipp.xml"
+modified: "application/sieve.xml"
+modified: "application/x-font-speedo.xml"
+modified: "audio/x-ms-wma.xml"
+modified: "image/vnd.zbrush.pcx.xml"
+modified: "x-content/image-picturecd.xml"
+modified: "application/x-cbr.xml"
+modified: "application/x-lyx.xml"
+modified: "application/x-navi-animation.xml"
+modified: "application/relax-ng-compact-syntax.xml"
+modified: "application/x-stuffit.xml"
+modified: "application/x-slp.xml"
+modified: "x-content/video-svcd.xml"
+modified: "application/pgp-signature.xml"
+modified: "inode/vnd.kde.service.sftp-ssh.xml"
+modified: "application/x-kwallet.xml"
+modified: "application/x-qw.xml"
+modified: "text/x-java.xml"
+modified: "image/svg+xml-compressed.xml"
+modified: "application/x-vnd.akonadi.collection.virtual.xml"
+modified: "text/x-bibtex.xml"
+modified: "application/x-tarz.xml"
+modified: "inode/vnd.kde.device.scanner.xml"
+modified: "application/x-pagemaker.xml"
+modified: "audio/x-vorbis+ogg.xml"
+modified: "application/vnd.stardivision.chart.xml"
+modified: "application/x-mozilla-bookmarks.xml"
+modified: "text/x-copying.xml"
+modified: "audio/x-riff.xml"
+modified: "application/x-dia-diagram.xml"
+modified: "image/x-olympus-orf.xml"
+modified: "inode/vnd.kde.service.postgresql.xml"
+modified: "image/x-minolta-mrw.xml"
+modified: "application/x-uml.xml"
+modified: "application/x-sc.xml"
+modified: "text/x-dsrc.xml"
+modified: "application/x-kugar.xml"
+modified: "application/x-desktop.xml"
+modified: "inode/vnd.kde.service.upnp.digitalsecuritycamera1.xml"
+modified: "image/x-bzeps.xml"
+modified: "application/x-kourse.xml"
+modified: "application/x-thomson-cartridge-memo7.xml"
+modified: "audio/x-mo3.xml"
+modified: "image/tiff.xml"
+modified: "image/openraster.xml"
+modified: "inode/vnd.kde.service.udisks-ssh.xml"
+modified: "application/metalink+xml.xml"
+modified: "text/vtt.xml"
+modified: "image/x-skencil.xml"
+modified: "inode/vnd.kde.service.webdavs.xml"
+modified: "application/pkix-pkipath.xml"
+modified: "inode/vnd.kde.service.upnp.solarprotectionblind1.xml"
+modified: "application/x-7z-compressed.xml"
+modified: "image/vnd.rn-realpix.xml"
+modified: "application/vnd.oasis.opendocument.text-master-template.xml"
+modified: "application/x-ipynb+json.xml"
+modified: "application/x-cda.xml"
+modified: "video/x-flic.xml"
+modified: "application/x-qtiplot.xml"
+modified: "inode/vnd.kde.service.upnp.basicdevice1.xml"
+modified: "application/vnd.oasis.opendocument.chart.xml"
+modified: "application/vnd.squashfs.xml"
+modified: "text/x-katefilelist.xml"
+modified: "application/xspf+xml.xml"
+modified: "application/vnd.flatpak.xml"
+modified: "application/vnd.chess-pgn.xml"
+modified: "image/vnd.djvu+multipage.xml"
+modified: "audio/x-aiff.xml"
+modified: "application/x-font-pcf.xml"
+modified: "inode/vnd.kde.service.nfs.xml"
+modified: "audio/midi.xml"
+modified: "application/mathematica.xml"
+modified: "audio/x-psflib.xml"
+modified: "text/x-haskell.xml"
+modified: "inode/vnd.kde.service.upnp.hvac1.xml"
+modified: "application/x-markaby.xml"
+modified: "application/x-font-linux-psf.xml"
+modified: "audio/webm.xml"
+modified: "application/vnd.ms-visio.drawing.macroenabled.main+xml.xml"
+modified: "text/spreadsheet.xml"
+modified: "text/x-txt2tags.xml"
+modified: "application/vnd.oasis.opendocument.chart-template.xml"
+modified: "audio/x-wav.xml"
+modified: "inode/vnd.kde.device.server.xml"
+modified: "application/vnd.ms-word.xml"
+modified: "application/vnd.ms-excel.addin.macroenabled.12.xml"
+modified: "application/octet-stream.xml"
+modified: "application/x-applix-spreadsheet.xml"
+modified: "inode/vnd.kde.service.telnet.xml"
+modified: "application/x-ruby.xml"
+modified: "x-content/unix-software.xml"
+modified: "audio/annodex.xml"
+modified: "application/x-alz.xml"
+modified: "text/html.xml"
+modified: "text/x-gettext-translation-template.xml"
+modified: "application/x-bzpdf.xml"
+modified: "application/vnd.oasis.opendocument.formula-template.xml"
+modified: "inode/vnd.kde.service.plasma.xml"
+modified: "application/pkcs8.xml"
+modified: "inode/vnd.kde.service.airport.xml"
+modified: "image/webp.xml"
+modified: "application/vnd.flatpak.repo.xml"
+modified: "application/vnd.flatpak.ref.xml"
+modified: "video/annodex.xml"
+modified: "text/x-svsrc.xml"
+modified: "video/3gpp.xml"
+modified: "x-content/blank-dvd.xml"
+modified: "application/x-cpio.xml"
+modified: "audio/amr.xml"
+modified: "application/vnd.openxmlformats-officedocument.wordprocessingml.document.xml"
+modified: "image/x-xwindowdump.xml"
+modified: "text/x-genie.xml"
+modified: "application/x-object.xml"
+modified: "application/x-iff.xml"
+modified: "application/x-theme.xml"
+modified: "application/x-xz.xml"
+modified: "application/x-matroska.xml"
+modified: "text/vnd.wap.wmlscript.xml"
+modified: "audio/x-xi.xml"
+modified: "audio/x-musepack.xml"
+modified: "application/winhlp.xml"
+modified: "application/rtf.xml"
+modified: "application/vnd.tcpdump.pcap.xml"
+modified: "image/x-win-bitmap.xml"
+modified: "application/vnd.oasis.opendocument.image.xml"
+modified: "application/x-vnd.kde.notes.xml"
+modified: "application/x-go-sgf.xml"
+modified: "text/x-ocl.xml"
+modified: "image/vnd.microsoft.icon.xml"
+modified: "inode/vnd.kde.service.daap.xml"
+modified: "inode/chardevice.xml"
+modified: "application/x-kexiproject-sqlite2.xml"
+modified: "audio/prs.sid.xml"
+modified: "application/vnd.comicbook+zip.xml"
+modified: "application/x-lzip.xml"
+modified: "image/x-xcursor.xml"
+modified: "application/x-sms-rom.xml"
+modified: "application/x-glade.xml"
+modified: "application/x-amiga-disk-format.xml"
+modified: "image/x-lws.xml"
+modified: "application/x-abiword.xml"
+modified: "inode/vnd.kde.service.lskat.xml"
+modified: "application/xml-dtd.xml"
+modified: "application/x-kformula.xml"
+modified: "inode/vnd.kde.service.skype.xml"
+modified: "application/vnd.sun.xml.calc.xml"
+modified: "image/x-tga.xml"
+modified: "application/x-xliff.xml"
+modified: "application/x-pocket-word.xml"
+modified: "application/x-tgif.xml"
+modified: "application/prs.plucker.xml"
+modified: "image/vnd.dxf.xml"
+modified: "application/pkcs12.xml"
+modified: "application/x-turtle.xml"
+modified: "application/x-java-jce-keystore.xml"
+modified: "inode/vnd.kde.service.ftp.xml"
+modified: "application/x-spss-sav.xml"
+modified: "inode/vnd.kde.service.unknown.xml"
+modified: "application/vnd.oasis.opendocument.text.xml"
+modified: "application/x-fluid.xml"
+modified: "inode/mount-point.xml"
+modified: "application/x-kolf.xml"
+modified: "audio/aac.xml"
+modified: "text/troff.xml"
+modified: "all/all.xml"
+modified: "image/x-dcraw.xml"
+modified: "application/x-bzpostscript.xml"
+modified: "inode/directory.xml"
+modified: "application/x-kcachegrind.xml"
+modified: "application/x-cisco-vpn-settings.xml"
+modified: "text/x-install.xml"
+modified: "inode/vnd.kde.service.ntp.xml"
+modified: "image/x-applix-graphics.xml"
+modified: "application/x-wpg.xml"
+modified: "video/vnd.mpegurl.xml"
+modified: "application/vnd.stardivision.mail.xml"
+modified: "audio/x-mod.xml"
+modified: "application/x-bsdiff.xml"
+modified: "application/vnd.ms-powerpoint.xml"
+modified: "application/x-dvi.xml"
+modified: "text/x-vhdl.xml"
+modified: "multipart/digest.xml"
+modified: "application/x-atari-7800-rom.xml"
+modified: "application/vnd.sun.xml.math.xml"
+modified: "application/pkix-cert.xml"
+modified: "application/x-vnd.akonadi.calendar.event.xml"
+modified: "application/vnd.sun.xml.base.xml"
+modified: "application/vnd.ms-access.xml"
+modified: "image/x-niff.xml"
+modified: "application/x-kgeo.xml"
+modified: "text/richtext.xml"
+modified: "image/x-nikon-nef.xml"
+modified: "application/x-rpm.xml"
+modified: "application/xslt+xml.xml"
+modified: "inode/vnd.kde.service.lobby.xml"
+modified: "application/x-quattropro.xml"
+modified: "application/vnd.coffeescript.xml"
+modified: "application/x-raw-disk-image-xz-compressed.xml"
+modified: "text/x-twig.xml"
+modified: "application/x-gamecube-rom.xml"
+modified: "application/x-vnd.akonadi.calendar.freebusy.xml"
+modified: "application/x-sg1000-rom.xml"
+modified: "image/x-kodak-k25.xml"
+modified: "audio/x-ms-asx.xml"
+modified: "application/x-genesis-32x-rom.xml"
+modified: "inode/vnd.kde.service.imap.xml"
+modified: "application/vnd.hp-hpgl.xml"
+modified: "video/3gpp2.xml"
+modified: "image/x-icns.xml"
+modified: "application/vnd.kde.bluedevil-sendfile.xml"
+modified: "image/x-portable-pixmap.xml"
+modified: "text/x-vala.xml"
+modified: "application/x-gettext-translation.xml"
+modified: "application/x-pc-engine-rom.xml"
+modified: "application/x-shorten.xml"
+modified: "application/vnd.openxmlformats-officedocument.spreadsheetml.template.xml"
+modified: "application/x-ms-dos-executable.xml"
+modified: "image/emf.xml"
+modified: "application/x-bzdvi.xml"
+modified: "audio/x-speex.xml"
+modified: "application/x-vnd.kde.alarm.archived.xml"
+modified: "image/x-sony-sr2.xml"
+modified: "inode/vnd.kde.service.giver.xml"
+modified: "application/x-docbook+xml.xml"
+modified: "application/x-lzma-compressed-tar.xml"
+modified: "application/smil+xml.xml"
+modified: "application/x-egon.xml"
+modified: "application/x-amipro.xml"
+modified: "application/x-kns.xml"
+modified: "inode/vnd.kde.device.unknown.xml"
+modified: "application/x-pef-executable.xml"
+modified: "application/x-asp.xml"
+modified: "inode/vnd.kde.service.upnp.remoteuiclientdevice1.xml"
+modified: "application/rdf+xml.xml"
+modified: "application/x-subrip.xml"
+modified: "text/x-ldif.xml"
+modified: "application/vnd.rar.xml"
+modified: "application/x-tex-gf.xml"
+modified: "application/vnd.google-earth.kmz.xml"
+modified: "inode/vnd.kde.service.ssh.xml"
+modified: "video/quicktime.xml"
+modified: "application/x-kgetlist.xml"
+modified: "multipart/mixed.xml"
+modified: "application/pkcs7-mime.xml"
+modified: "image/vnd.dwg.xml"
+modified: "video/x-ogm+ogg.xml"
+modified: "application/x-java-keystore.xml"
+modified: "application/x-archive.xml"
+modified: "text/x-modelica.xml"
+modified: "text/x-qml.xml"
+modified: "application/vnd.oasis.opendocument.text-master.xml"
+modified: "application/vnd.sun.xml.draw.template.xml"
+modified: "application/x-font-snf.xml"
+modified: "x-content/video-bluray.xml"
+modified: "application/x-font-sunos-news.xml"
+modified: "application/x-qpress.xml"
+modified: "inode/vnd.kde.service.http.xml"
+modified: "inode/vnd.kde.service.nssocketport.xml"
+modified: "application/x-class-file.xml"
+modified: "multipart/x-mixed-replace.xml"
+modified: "image/x-portable-anymap.xml"
+modified: "message/rfc822.xml"
+modified: "text/x-mrml.xml"
+modified: "application/x-spss-por.xml"
+modified: "application/x-riff.xml"
+modified: "application/vnd.ms-visio.stencil.macroenabled.main+xml.xml"
+modified: "text/vnd.sun.j2me.app-descriptor.xml"
+modified: "video/mpeg.xml"
+modified: "application/vnd.ms-visio.drawing.main+xml.xml"
+modified: "application/vnd.apple.mpegurl.xml"
+modified: "application/postscript.xml"
+modified: "text/x-sass.xml"
+modified: "inode/vnd.kde.service.pulse-source.xml"
+modified: "inode/vnd.kde.service.sleep-proxy.xml"
+modified: "image/svg+xml.xml"
+modified: "image/vnd.wap.wbmp.xml"
+modified: "inode/vnd.kde.service.upnp.lightingcontrols1.xml"
+modified: "text/x-log.xml"
+modified: "application/x-kspread-crypt.xml"
+modified: "audio/x-mpegurl.xml"
+modified: "text/sgml.xml"
+modified: "audio/x-pn-realaudio-plugin.xml"
+modified: "application/gpx+xml.xml"
+modified: "application/ram.xml"
+modified: "text/x-eiffel.xml"
+modified: "application/x-vnd.kde.alarm.active.xml"
+modified: "application/x-mimearchive.xml"
+modified: "audio/vnd.dts.xml"
+modified: "inode/vnd.kde.service.net-assistant.xml"
+modified: "application/vnd.ms-powerpoint.slide.macroenabled.12.xml"
+modified: "audio/x-wavpack.xml"
+modified: "application/x-lhz.xml"
+modified: "inode/vnd.kde.service.upnp.raserver1.xml"
+modified: "inode/vnd.kde.service.printer.xml"
+modified: "text/vnd.wap.wml.xml"
+modified: "audio/ac3.xml"
+modified: "text/x-c++src.xml"
+modified: "application/vnd.openofficeorg.extension.xml"
+modified: "video/webm.xml"
+modified: "application/vnd.ms-powerpoint.presentation.macroenabled.12.xml"
+modified: "application/vnd.sun.xml.impress.xml"
+modified: "text/vnd.rn-realtext.xml"
+modified: "application/vnd.ms-visio.template.main+xml.xml"
+modified: "application/x-kudesigner.xml"
+modified: "application/mac-binhex40.xml"
+modified: "application/x-python-bytecode.xml"
+modified: "application/x-hwp.xml"
+modified: "text/enriched.xml"
+modified: "text/x-tcl.xml"
+modified: "application/vnd.oasis.opendocument.graphics.xml"
+modified: "video/x-nsv.xml"
+modified: "application/x-thomson-cassette.xml"
+modified: "application/vnd.google-earth.kml+xml.xml"
+modified: "application/x-vnd.akonadi.calendar.journal.xml"
+modified: "application/vnd.ms-excel.sheet.binary.macroenabled.12.xml"
+modified: "inode/vnd.kde.service.webdav.xml"
+modified: "text/x-pascal.xml"
+modified: "application/x-webarchive.xml"
+modified: "application/x-java-pack200.xml"
+modified: "application/geo+json.xml"
+modified: "application/x-bittorrent.xml"
+modified: "message/external-body.xml"
+modified: "application/x-mif.xml"
+modified: "application/x-ksysguard.xml"
+modified: "application/x-font-framemaker.xml"
+modified: "application/x-fictionbook+xml.xml"
+modified: "text/x-scons.xml"
+modified: "multipart/appledouble.xml"
+modified: "application/mxf.xml"
+modified: "application/x-source-rpm.xml"
+modified: "image/x-xpixmap.xml"
+modified: "application/x-genesis-rom.xml"
+modified: "application/x-lzma.xml"
+modified: "inode/vnd.kde.service.upnp.wandevice1.xml"
+modified: "application/x-bcpio.xml"
+modified: "application/x-macbinary.xml"
+modified: "inode/vnd.kde.service.rfb.xml"
+modified: "text/x-c++hdr.xml"
+modified: "image/x-hdr.xml"
+modified: "image/x-macpaint.xml"
+modified: "image/x-photo-cd.xml"
+modified: "application/vnd.ms-excel.xml"
+modified: "application/msword-template.xml"
+modified: "application/x-vnd.kde.contactgroup.xml"
+modified: "inode/vnd.kde.service.ldap.xml"
+modified: "application/rss+xml.xml"
+modified: "application/x-cabri.xml"
+modified: "audio/flac.xml"
+modified: "multipart/signed.xml"
+modified: "application/x-dia-shape.xml"
+modified: "image/fits.xml"
+modified: "application/x-pak.xml"
+modified: "image/x-adobe-dng.xml"
+modified: "text/x-setext.xml"
+modified: "inode/vnd.kde.service.couchdb_location.xml"
+modified: "application/vnd.stardivision.impress.xml"
+modified: "application/x-nintendo-ds-rom.xml"
+modified: "application/x-hfe-floppy-image.xml"
+modified: "application/x-ksysv-package.xml"
+modified: "application/x-kexi-connectiondata.xml"
+modified: "image/x-xcf.xml"
+modified: "application/vnd.openxmlformats-officedocument.presentationml.presentation.xml"
+modified: "inode/socket.xml"
+modified: "application/vnd.kde.okular-archive.xml"
+modified: "application/x-mswinurl.xml"
+modified: "audio/ogg.xml"
+modified: "application/x-plasma.xml"
+modified: "application/metalink4+xml.xml"
+modified: "audio/mp4.xml"
+modified: "application/x-n64-rom.xml"
+modified: "application/x-ms-shortcut.xml"
+modified: "application/x-toutdoux.xml"
+modified: "application/x-yaml.xml"
+modified: "application/pkcs7-signature.xml"
+modified: "application/x-ccmx.xml"
+modified: "application/msword.xml"
+modified: "application/x-vnd.akonadi.note.xml"
+modified: "audio/x-psf.xml"
+modified: "application/x-kivio.xml"
+modified: "text/x-lua.xml"
+modified: "application/pgp-keys.xml"
+modified: "application/x-ms-wim.xml"
+modified: "application/vnd.oasis.opendocument.graphics-flat-xml.xml"
+modified: "video/isivideo.xml"
+modified: "application/x-tex-pk.xml"
+modified: "application/x-gnucash.xml"
+modified: "image/png.xml"
+modified: "text/x-objcsrc.xml"
+modified: "image/vnd.djvu.xml"
+modified: "text/x-troff-me.xml"
+modified: "application/x-atari-2600-rom.xml"
+modified: "inode/vnd.kde.service.upnp.wfadevice1.xml"
+modified: "message/disposition-notification.xml"
+modified: "application/x-mps.xml"
+modified: "text/x-microdvd.xml"
+modified: "application/vnd.ms-excel.template.macroenabled.12.xml"
+modified: "audio/mpeg.xml"
+modified: "application/x-kopete-emoticons.xml"
+modified: "model/vrml.xml"
+modified: "image/x-tiff-multipage.xml"
+modified: "application/x-core.xml"
+modified: "text/x-hex.xml"
+modified: "application/vnd.oasis.opendocument.text-template.xml"
+modified: "application/x-zip-compressed-fb2.xml"
+modified: "text/x-patch.xml"
+modified: "inode/vnd.kde.device.router.xml"
+modified: "inode/vnd.kde.device.printer.xml"
+modified: "image/x-canon-crw.xml"
+modified: "application/raml+yaml.xml"
+modified: "application/x-sharedlib.xml"
+modified: "text/x-texinfo.xml"
+modified: "application/font-woff.xml"
+modified: "application/x-vnd.kde.plan.work.xml"
+modified: "x-content/ebook-reader.xml"
+modified: "inode/vnd.kde.service.upnp.wlanaccesspointdevice1.xml"
+modified: "image/x-sony-arw.xml"
+modified: "x-content/software.xml"
+modified: "audio/x-speex+ogg.xml"
+modified: "inode/vnd.kde.service.home-sharing.xml"
+modified: "application/x-nes-rom.xml"
+modified: "text/vcard.xml"
+modified: "inode/vnd.kde.service.upnp.landevice1.xml"
+modified: "application/pgp-encrypted.xml"
+modified: "application/x-arc.xml"
+modified: "video/x-ms-wmv.xml"
+modified: "application/x-gba-rom.xml"
+modified: "text/turtle.xml"
+modified: "application/x-kchart.xml"
+modified: "inode/vnd.kde.service.upnp.radiscoveryagent1.xml"
+modified: "application/x-gameboy-rom.xml"
+modified: "application/x-awk.xml"
+modified: "audio/x-matroska.xml"
+modified: "image/x-sgi.xml"
+modified: "image/bmp.xml"
+modified: "application/vnd.sun.xml.writer.template.xml"
+modified: "inode/vnd.kde.service.ksirk.xml"
+modified: "image/x-cmu-raster.xml"
+modified: "application/x-lha.xml"
+modified: "application/x-cb7.xml"
+modified: "application/vnd.wordperfect.xml"
+modified: "application/vnd.adobe.flash.movie.xml"
+modified: "image/x-lwo.xml"
+modified: "video/wavelet.xml"
+modified: "x-epoc/x-sisx-app.xml"
+modified: "application/x-kexiproject-shortcut.xml"
+modified: "inode/vnd.kde.service.pop3.xml"
+modified: "application/mathml+xml.xml"
+modified: "application/x-x509-ca-cert.xml"
+modified: "audio/x-ape.xml"
+modified: "image/jp2.xml"
+modified: "application/x-font-vfont.xml"
+modified: "application/x-par2.xml"
+modified: "inode/vnd.kde.service.upnp.remoteuiserverdevice1.xml"
+modified: "image/x-sony-srf.xml"
+modified: "application/x-vnd.kde.kplato.work.xml"
+modified: "audio/x-minipsf.xml"
+modified: "application/x-font-dos.xml"
+modified: "application/vnd.sun.xml.writer.xml"
+modified: "text/x-vnd.akonadi.note.xml"
+modified: "application/pkix-crl.xml"
+modified: "application/vnd.ms-visio.stencil.main+xml.xml"
+modified: "text/x-google-video-pointer.xml"
+modified: "video/x-ms-wmp.xml"
+modified: "application/x-msi.xml"
+modified: "image/x-portable-bitmap.xml"
+modified: "application/x-nautilus-link.xml"
+modified: "application/vnd.stardivision.calc.xml"
+modified: "application/x-thomson-sap-image.xml"
+modified: "audio/x-stm.xml"
+modified: "application/gml+xml.xml"
+modified: "application/vnd.symbian.install.xml"
+modified: "image/x-pentax-pef.xml"
+modified: "inode/vnd.kde.service.realplayfavs.xml"
+modified: "text/css.xml"
+modified: "text/x-reject.xml"
+modified: "inode/vnd.kde.service.upnp.mediaserver1.xml"
+modified: "application/x-php.xml"
+modified: "text/x-gettext-translation.xml"
+modified: "x-content/video-hddvd.xml"
+modified: "application/vnd.openxmlformats-officedocument.presentationml.template.xml"
+modified: "text/x-scheme.xml"
+modified: "application/vnd.oasis.opendocument.spreadsheet-flat-xml.xml"
+modified: "video/dv.xml"
+modified: "multipart/related.xml"
+modified: "inode/vnd.kde.service.svn.xml"
+modified: "application/mbox.xml"
+modified: "text/x-cmake.xml"
+modified: "application/x-kmplot.xml"
+modified: "image/x-kde-raw.xml"
+modified: "text/x-credits.xml"
+modified: "application/x-ole-storage.xml"
+modified: "image/g3fax.xml"
+modified: "application/vnd.lotus-wordpro.xml"
+modified: "audio/x-adpcm.xml"
+modified: "x-content/video-dvd.xml"
+modified: "application/x-kwordquiz.xml"
+modified: "inode/vnd.kde.service.libvirt.xml"
+modified: "audio/x-wavpack-correction.xml"
+modified: "text/x-mpsub.xml"
+modified: "application/vnd.oasis.opendocument.text-web.xml"
+modified: "application/x-font-otf.xml"
+modified: "application/vnd.ms-powerpoint.addin.macroenabled.12.xml"
+modified: "text/x-subviewer.xml"
+modified: "application/x-gtktalog.xml"
+modified: "inode/vnd.kde.service.upnp.unknown.xml"
+modified: "application/vnd.oasis.opendocument.graphics-template.xml"
+modified: "model/iges.xml"
+modified: "application/x-wii-rom.xml"
+modified: "application/x-pkcs7-certificates.xml"
+modified: "application/x-cbt.xml"
+modified: "audio/vnd.rn-realaudio.xml"
+modified: "text/x-objchdr.xml"
+modified: "application/x-cue.xml"
+modified: "application/pdf.xml"
+modified: "application/x-quicktime-media-link.xml"
+modified: "inode/vnd.kde.service.touch-able.xml"
+modified: "application/pkcs10.xml"
+modified: "image/wmf.xml"
+modified: "inode/vnd.kde.device.workstation.xml"
+modified: "inode/vnd.kde.service.upnp.internetgatewaydevice1.xml"
+modified: "application/x-hwt.xml"
+modified: "text/x-scss.xml"
+modified: "application/zip.xml"
+modified: "application/x-partial-download.xml"
+modified: "application/vnd.ms-word.template.macroenabled.12.xml"
+modified: "application/x-java-jnlp-file.xml"
+modified: "message/x-gnu-rmail.xml"
+modified: "application/x-doom-wad.xml"
+modified: "inode/vnd.kde.service.workstation.xml"
+modified: "inode/vnd.kde.service.upnp.mediaserver3.xml"
+modified: "application/vnd.openxmlformats-officedocument.wordprocessingml.template.xml"
+modified: "image/x-ilbm.xml"
+modified: "image/ief.xml"
+modified: "application/vnd.debian.binary-package.xml"
+modified: "text/x-opml+xml.xml"
+modified: "application/x-sega-cd-rom.xml"
+modified: "text/x-uuencode.xml"
+modified: "text/x-changelog.xml"
+modified: "video/vnd.rn-realvideo.xml"
+modified: "application/vnd.ms-asf.xml"
+modified: "application/json-patch+json.xml"
+modified: "image/x-portable-graymap.xml"
+modified: "application/vnd.sun.xml.writer.global.xml"
+modified: "video/x-matroska.xml"
+modified: "application/x-vnd.kde.kplato.xml"
+modified: "inode/vnd.kde.service.pdl-datastream.xml"
+modified: "image/x-kodak-kdc.xml"
+modified: "inode/vnd.kde.bluedevil.service.xml"
+modified: "application/json.xml"
+modified: "image/dpx.xml"
+modified: "application/x-font-libgrx.xml"
+modified: "application/x-dc-rom.xml"
+modified: "application/x-kexiproject-sqlite3.xml"
+modified: "application/sql.xml"
+modified: "application/x-lrzip.xml"
+modified: "application/vnd.oasis.opendocument.formula.xml"
+modified: "image/x-rgb.xml"
+modified: "application/illustrator.xml"
+modified: "inode/vnd.kde.service.upnp.printerbasic1.xml"
+modified: "application/x-vnd.kde.kugar.mixed.xml"
+modified: "application/javascript.xml"
+modified: "application/vnd.lotus-1-2-3.xml"
+modified: "application/vnd.visio.xml"
+modified: "application/x-kig.xml"
+modified: "application/x-compressed-tar.xml"
+modified: "application/x-font-ttf.xml"
+modified: "image/x-pict.xml"
+modified: "application/x-sqlite2.xml"
+modified: "application/x-gtk-builder.xml"
+modified: "text/x-python.xml"
+modified: "image/x-sigma-x3f.xml"
+modified: "message/news.xml"
+modified: "application/x-executable.xml"
+modified: "application/vnd.nintendo.snes.rom.xml"
+modified: "image/x-fpx.xml"
+modified: "image/jpeg.xml"
+modified: "text/vnd.graphviz.xml"
+modified: "application/x-cdrdao-toc.xml"
+modified: "text/x-vnd.akonadi.socialfeeditem.xml"
+modified: "application/relaxng.xml"
+modified: "application/vnd.emusic-emusic_package.xml"
+modified: "application/vnd.stardivision.writer.xml"
+modified: "audio/x-gsm.xml"
+modified: "application/x-xpinstall.xml"
+modified: "inode/vnd.kde.service.h323.xml"
+modified: "application/x-wii-wad.xml"
+modified: "application/x-kvtml.xml"
+modified: "application/x-trig.xml"
+modified: "audio/x-xmf.xml"
+modified: "application/dicom.xml"
+modified: "inode/vnd.kde.service.appletv-pair.xml"
+modified: "application/vnd.ms-htmlhelp.xml"
+modified: "text/calendar.xml"
+modified: "text/x-imelody.xml"
+modified: "application/x-pw.xml"
+modified: "text/vnd.trolltech.linguist.xml"
+modified: "application/vnd.openxmlformats-officedocument.presentationml.slide.xml"
+modified: "text/x-ms-regedit.xml"
+modified: "video/vnd.vivo.xml"
+modified: "text/rfc822-headers.xml"
+modified: "application/ld+json.xml"
+modified: "application/vnd.ms-works.xml"
+modified: "application/x-shar.xml"
+modified: "application/x-gedcom.xml"
+modified: "application/x-ktheme.xml"
+modified: "application/vnd.ms-wpl.xml"
+modified: "application/x-java.xml"
+modified: "text/x-makefile.xml"
+modified: "application/xhtml+xml.xml"
+modified: "text/rust.xml"
+modified: "application/annodex.xml"
+modified: "image/cgm.xml"
+modified: "x-content/audio-dvd.xml"
+modified: "application/vnd.framemaker.xml"
+modified: "application/x-font-tex-tfm.xml"
+modified: "application/x-shellscript.xml"
+modified: "application/x-troff-man.xml"
+modified: "audio/x-s3m.xml"
+modified: "image/x-kodak-dcr.xml"
+modified: "application/x-tuberling.xml"
+modified: "application/vnd.kde.fontspackage.xml"
+modified: "text/htmlh.xml"
+modified: "inode/vnd.kde.service.upnp.mediarenderer2.xml"
+modified: "text/x-authors.xml"
+modified: "multipart/alternative.xml"
+modified: "image/vnd.ms-modi.xml"
+modified: "application/vnd.iccprofile.xml"
+modified: "application/x-smb-server.xml"
+modified: "application/x-ica.xml"
+modified: "audio/vnd.dts.hd.xml"
+modified: "image/x-panasonic-raw2.xml"
+modified: "application/x-graphite.xml"
+modified: "application/x-lzpdf.xml"
+modified: "application/sdp.xml"
+modified: "application/x-applix-word.xml"
+modified: "application/vnd.sun.xml.draw.xml"
+modified: "application/x-xzpdf.xml"
+modified: "inode/vnd.kde.service.rsync.xml"
+modified: "video/mp4.xml"
+modified: "application/x-kpresenter.xml"
+modified: "all/allfiles.xml"
+modified: "application/x-font-type1.xml"
+modified: "image/x-gzeps.xml"
+modified: "video/ogg.xml"
+modified: "application/vnd.palm.xml"
+modified: "video/x-msvideo.xml"
+modified: "text/x-csrc.xml"
+modified: "inode/vnd.kde.service.smb.xml"
+modified: "text/x-dsl.xml"
+modified: "text/x-adasrc.xml"
+modified: "image/x-msod.xml"
+modified: "application/x-kpovmodeler.xml"
+modified: "text/x-xslfo.xml"
+modified: "application/x-raw-disk-image.xml"
+modified: "x-content/win32-software.xml"
+modified: "application/x-java-applet.xml"
+modified: "text/tab-separated-values.xml"
+modified: "inode/vnd.kde.service.acrobat-server.xml"
+modified: "inode/vnd.kde.service.upnp.scanner1.xml"
+modified: "image/x-quicktime.xml"
+modified: "application/vnd.ms-cab-compressed.xml"
+modified: "application/vnd.sun.xml.impress.template.xml"
+modified: "application/x-smaf.xml"
+modified: "image/x-canon-cr2.xml"
+modified: "image/x-panasonic-raw.xml"
+modified: "video/x-theora+ogg.xml"
+modified: "application/x-lzip-compressed-tar.xml"
+modified: "inode/fifo.xml"
+modified: "application/x-iso9660-appimage.xml"
+modified: "application/x-kseg.xml"
+modified: "application/x-iwork-keynote-sffkey.xml"
+modified: "inode/vnd.kde.service.kfourinline.xml"
+modified: "application/x-ipod-firmware.xml"
+modified: "application/gnunet-directory.xml"
+modified: "application/x-e-theme.xml"
+modified: "application/x-dar.xml"
+modified: "application/zlib.xml"
+modified: "text/x-uil.xml"
+modified: "application/x-troff-man-compressed.xml"
+modified: "audio/x-it.xml"
+modified: "text/x-fortran.xml"
+modified: "application/x-karbon.xml"
+modified: "application/xml-external-parsed-entity.xml"
+modified: "audio/x-voc.xml"
+modified: "application/vnd.stardivision.draw.xml"
+modified: "application/x-siag.xml"
+modified: "inode/vnd.kde.service.upnp.wanconnectiondevice1.xml"
+modified: "multipart/report.xml"
+modified: "application/vnd.oasis.opendocument.spreadsheet-template.xml"
+modified: "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.xml"
+modified: "inode/vnd.kde.service.raop.xml"
+modified: "application/x-bzip-compressed-tar.xml"
+modified: "text/vnd.abc.xml"
+modified: "application/x-kommander.xml"
+modified: "application/vnd.ms-word.document.macroenabled.12.xml"
+modified: "application/ogg.xml"
+modified: "application/x-quanta.xml"
+modified: "application/x-sqlite3.xml"
+modified: "application/x-saturn-rom.xml"
+modified: "application/vnd.stardivision.math.xml"
+modified: "x-content/audio-cdda.xml"
+modified: "application/x-tzo.xml"
+modified: "inode/vnd.kde.service.kbattleship.xml"
+modified: "image/vnd.adobe.photoshop.xml"
+modified: "application/x-wais-source.xml"
+modified: "text/x-meson.xml"
+modified: "inode/vnd.kde.service.afpovertcp.xml"
+modified: "application/xml.xml"
+modified: "application/x-windows-themepack.xml"
+modified: "text/x-tex.xml"
+modified: "inode/vnd.kde.service.upnp.mediaserver2.xml"
+modified: "image/x-xfig.xml"
+modified: "application/x-nzb.xml"
+modified: "text/csv-schema.xml"
+modified: "application/x-netcdf.xml"
+modified: "text/x-chdr.xml"
+modified: "application/x-msx-rom.xml"
+modified: "audio/x-aifc.xml"
+modified: "image/fax-g3.xml"
+modified: "application/vnd.ms-powerpoint.slideshow.macroenabled.12.xml"
+modified: "video/mp2t.xml"
+modified: "application/x-xbel.xml"
+modified: "video/x-flv.xml"
+modified: "application/x-vnd.kde.alarm.xml"
+modified: "application/vnd.openxmlformats-officedocument.presentationml.slideshow.xml"
+modified: "application/vnd.oasis.opendocument.presentation-flat-xml.xml"
+modified: "application/x-cpio-compressed.xml"
+modified: "inode/vnd.kde.service.eppc.xml"
+modified: "x-content/image-dcf.xml"
+modified: "application/x-sami.xml"
+modified: "inode/vnd.kde.service.pulse-sink.xml"
+modified: "inode/vnd.kde.service.rdp.xml"
+modified: "text/x-iptables.xml"
+modified: "audio/basic.xml"
+modified: "audio/x-scpls.xml"
+modified: "image/x-fuji-raf.xml"
+modified: "application/x-gnuplot.xml"
+modified: "application/x-smb-workgroup.xml"
+modified: "text/x-mup.xml"
+modified: "audio/amr-wb.xml"
+modified: "application/x-cd-image.xml"
+modified: "application/andrew-inset.xml"
+modified: "application/x-gz-font-linux-psf.xml"
+modified: "application/x-lz4.xml"
+modified: "text/plain.xml"
+modified: "application/x-aportisdoc.xml"
+modified: "application/x-perl.xml"
+modified: "inode/symlink.xml"
+modified: "application/vnd.android.package-archive.xml"
+modified: "application/vnd.corel-draw.xml"
+modified: "application/x-vnd.akonadi.calendar.todo.xml"
+modified: "application/x-trash.xml"
+modified: "image/x-eps.xml"
+modified: "application/vnd.snap.xml"
+modified: "message/delivery-status.xml"
+modified: "x-content/video-vcd.xml"
+modified: "x-content/blank-bd.xml"
+modified: "x-content/blank-cd.xml"
+modified: "application/x-m4.xml"
+modified: "text/x-troff-mm.xml"
+modified: "multipart/encrypted.xml"
+modified: "inode/vnd.kde.service.presence.xml"
+modified: "audio/x-amzxml.xml"
+modified: "application/x-oleo.xml"
+modified: "application/x-icq.xml"
+modified: "application/jrd+json.xml"
+modified: "message/partial.xml"
+modified: "application/vnd.kde.kphotoalbum-import.xml"
+modified: "application/x-gamegear-rom.xml"
+modified: "audio/x-opus+ogg.xml"
+modified: "application/x-font-bdf.xml"
+modified: "application/x-drgeo.xml"
+modified: "application/x-compress.xml"
+modified: "x-content/blank-hddvd.xml"
+modified: "application/x-profile.xml"
+modified: "video/x-anim.xml"
+modified: "application/oxps.xml"
+modified: "application/atom+xml.xml"
+modified: "application/vnd.oasis.opendocument.spreadsheet.xml"
+modified: "image/x-dds.xml"
+modified: "image/x-compressed-xcf.xml"
+modified: "application/x-khtml-adaptor.xml"
+modified: "application/x-java-archive.xml"
+modified: "inode/vnd.kde.service.ftps.xml"
+modified: "application/x-sv4crc.xml"
+modified: "inode/vnd.kde.service.airmouse.xml"
+modified: "image/rle.xml"
+modified: "text/csv.xml"
+modified: "application/x-font-tex.xml"
+modified: "text/markdown.xml"
+modified: "application/x-sega-pico-rom.xml"
+modified: "audio/x-iriver-pla.xml"
+modified: "application/x-ustar.xml"
+modified: "application/x-it87.xml"
+modified: "text/x-ooc.xml"
+modified: "application/x-csh.xml"
+modified: "application/vnd.ms-publisher.xml"
+modified: "image/x-3ds.xml"
+modified: "text/x-svhdr.xml"
+Still in the time dict (i.e. deleted files) ("xdgdata-mime", "apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 4392, resource id: 67109708, major code: 15 (QueryTree), minor code: 0
+"/var/crash/"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+"/var/crash"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+ERROR: whoopsie is not running
+ERROR: whoopsie is not running
+Exception ignored in: <bound method BusName.__del__ of <dbus.service.BusName org.kubuntu.whoopsie_upload_all on <dbus._dbus.SessionBus (session) at 0x7fd0d9540620> at 0x7fd0dae8e898>>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/dbus/service.py", line 169, in __del__
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 317, in release_name
+TypeError: 'NoneType' object is not callable
+Exception ignored in: <bound method BusName.__del__ of <dbus.service.BusName org.kubuntu.whoopsie_upload_all on <dbus._dbus.SessionBus (session) at 0x7fd6de251620> at 0x7fd6dfb9c898>>
+Traceback (most recent call last):
+  File "/usr/lib/python3/dist-packages/dbus/service.py", line 169, in __del__
+  File "/usr/lib/python3/dist-packages/dbus/bus.py", line 320, in release_name
+  File "/usr/lib/python3/dist-packages/dbus/connection.py", line 638, in call_blocking
+TypeError: 'NoneType' object is not callable
+kdeinit5: PID 32378 terminated.
+kdeinit5: PID 32377 terminated.
+"/var/crash/"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+"/var/crash"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+INFO: whoopsie-upload-all already running
+WARNING: Not running as root, cannot process reports which are not owned by uid 1000
+kdeinit5: PID 1234 terminated.
+kdeinit5: PID 1229 terminated.
+Reusing existing ksycoca
+Recreating ksycoca file ("/home/jose/.cache/ksycoca5_pt_pxHbfsqi5QVyTI0suSD2rPQaZSs=", version 303)
+Still in the time dict (i.e. deleted files) ("apps")
+Menu "applications-kmenuedit.menu" not found.
+The action "new-window" in the desktop file "/var/lib/snapd/desktop/applications/vscode_vscode.desktop" has no Name or no Exec key
+Saving
+()
+("/home/jose/comandosshell/repeticao1.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 44421, resource id: 71303265, major code: 3 (GetWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 9 (BadDrawable), sequence: 44422, resource id: 71303265, major code: 14 (GetGeometry), minor code: 0
+()
+("/home/jose/comandosshell/repeticao1.sh")
+()
+()
+("/home/jose/comandosshell/repeticao2.sh,")
+()
+()
+("/home/jose/comandosshell/2repeticao.sh")
+()
+()
+("/home/jose/comandosshell/repeticao1.sh", "/home/jose/comandosshell/2repeticao.sh")
+()
+()
+("/home/jose/comandosshell/3repeticaoif.sh")
+()
+lock called
+Lock window Id:  29360187
+CreateNotify: 29360187
+UnmapNotify: 29360187
+CreateNotify: 10485763
+CreateNotify: 10485769
+CreateNotify: 10485773
+CreateNotify: 10485775
+CreateNotify: 10485777
+MapNotify: 10485775
+CreateNotify: 10485779
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+MapNotify: 29360187
+ktp-kded-module: 
+UnmapNotify: 10485775
+UnmapNotify: 10485775
+CreateNotify: 10485793
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 55670, resource id: 10485793, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11402, resource id: 65011728, major code: 15 (QueryTree), minor code: 0
+"/var/crash"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+"/var/crash"
+running "/usr/share/kubuntu-notification-helper/whoopsie-upload-all"
+kdeinit5: Got EXEC_NEW '/usr/share/kubuntu-notification-helper/whoopsie-upload-all' from launcher.
+kdeinit5: preparing to launch '/usr/share/kubuntu-notification-helper/whoopsie-upload-all'
+INFO: whoopsie-upload-all already running
+kdeinit5: PID 8970 terminated.
+WARNING: Not running as root, cannot process reports which are not owned by uid 1000
+kdeinit5: PID 8971 terminated.
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 17364, resource id: 60817411, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 26859, resource id: 60817410, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 29026, resource id: 10485763, major code: 15 (QueryTree), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 56660, resource id: 71303365, major code: 2 (ChangeWindowAttributes), minor code: 0
+()
+("/home/jose/comandosshell/2repeticao.sh", "/home/jose/comandosshell/3repeticaoif.sh")
+()
+()
+("/home/jose/comandosshell/3repeticaoif.sh")
+()
+()
+("/home/jose/comandosshell/4repeticaobissexto.sh")
+()
+()
+("/home/jose/comandosshell/4repeticaobissexto.sh")
+()
+()
+("/home/jose/comandosshell/4repeticaobissexto.sh")
+()
+()
+("/home/jose/comandosshell/4repeticaobissexto.sh")
+()
+()
+("/home/jose/comandosshell/4repeticaobissexto.sh")
+()
+lock called
+Lock window Id:  29360192
+CreateNotify: 29360192
+UnmapNotify: 29360192
+CreateNotify: 65011715
+CreateNotify: 65011721
+CreateNotify: 65011725
+CreateNotify: 65011727
+CreateNotify: 65011729
+MapNotify: 65011727
+MapNotify: 29360192
+CreateNotify: 65011731
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 65011727
+UnmapNotify: 65011727
+CreateNotify: 65011741
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11522, resource id: 65011741, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 22961, resource id: 58720310, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 23235, resource id: 41945992, major code: 18 (ChangeProperty), minor code: 0
+()
+("/home/jose/comandosshell/5repeticao3.sh")
+()
+()
+("/home/jose/comandosshell/5repeticao3.sh")
+()
+()
+("/home/jose/comandosshell/5repeticao3.sh")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 9714, resource id: 58720280, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 9831, resource id: 41946059, major code: 18 (ChangeProperty), minor code: 0
+QObject::connect: invalid null parameter
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "RxBytes"
+networkmanager-qt: virtual void NetworkManager::DevicePrivate::propertyChanged(const QString&, const QVariant&) Unhandled property "TxBytes"
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+QObject::connect: invalid null parameter
+kdeinit5: Got SETENV 'KDE_MULTIHEAD=false' from launcher.
+Initializing  "kcm_input" :  "kcminit_mouse"
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 12667, resource id: 58720264, major code: 18 (ChangeProperty), minor code: 0
+"/org/freedesktop/UDisks2/block_devices/loop2" has new interfaces: ("org.freedesktop.UDisks2.Filesystem")
+QObject::connect: invalid null parameter
+()
+("/home/jose/ExemploBranch/arquivo.txt")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 42423, resource id: 67111233, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/ExemploBranch")
+()
+()
+("/home/jose/ExemploBranch/jose.txt")
+()
+()
+("/home/jose/ExemploBranch/jose.txt")
+()
+lock called
+Lock window Id:  29360197
+CreateNotify: 29360197
+UnmapNotify: 29360197
+CreateNotify: 65011715
+CreateNotify: 65011721
+CreateNotify: 65011725
+CreateNotify: 65011727
+CreateNotify: 65011729
+MapNotify: 65011727
+CreateNotify: 65011731
+ktp-kded-module: 
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+UnmapNotify: 65011727
+UnmapNotify: 65011727
+CreateNotify: 65011737
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33956, resource id: 65011727, major code: 2 (ChangeWindowAttributes), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 33960, resource id: 65011737, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+lock called
+Lock window Id:  29360200
+CreateNotify: 29360200
+UnmapNotify: 29360200
+CreateNotify: 65011715
+CreateNotify: 65011721
+CreateNotify: 65011725
+CreateNotify: 65011727
+CreateNotify: 65011729
+MapNotify: 65011727
+CreateNotify: 65011731
+MapNotify: 29360200
+file:///usr/share/plasma/look-and-feel/org.kde.breeze.desktop/contents/lockscreen/LockScreenUi.qml:98:103: Unable to assign int to QEasingCurve
+ktp-kded-module: 
+UnmapNotify: 65011727
+UnmapNotify: 65011727
+CreateNotify: 65011745
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 11366, resource id: 65011745, major code: 18 (ChangeProperty), minor code: 0
+Grab Released
+ktp-kded-module: 
+()
+("/home/jose/ExemploBranch/Bruno.txt", "/home/jose/ExemploBranch/César.txt", "/home/jose/ExemploBranch/Daniel.txt", "/home/jose/ExemploBranch/Edilson.txt", "/home/jose/ExemploBranch/Fernando.txt", "/home/jose/ExemploBranch/Flavio.txt", "/home/jose/ExemploBranch/Gleisson.txt", "/home/jose/ExemploBranch/Leonardo.txt", "/home/jose/ExemploBranch/Marco.txt", "/home/jose/ExemploBranch/ViniciusS.txt", "/home/jose/ExemploBranch/carlos.txt", "/home/jose/ExemploBranch/edecio.txt", "/home/jose/ExemploBranch/erickson.txt", "/home/jose/ExemploBranch/ivan.txt", "/home/jose/ExemploBranch/vinicius.txt")
+()
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 19178, resource id: 41946332, major code: 18 (ChangeProperty), minor code: 0
+QXcbConnection: XCB error: 3 (BadWindow), sequence: 38912, resource id: 67111870, major code: 15 (QueryTree), minor code: 0
+()
+("/home/jose/feito/Untitled-1")
+()

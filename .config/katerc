@@ -1,0 +1,28 @@
+[General]
+Config Revision=10
+Days Meta Infos=30
+Last Session=
+Save Meta Infos=true
+Show Full Path in Title=false
+Show Menu Bar=true
+Show Status Bar=true
+Show Tab Bar=true
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/comandosshell/diretorioearquivos.sh,file:$HOME/comandosshell/9instalcaocompleta.sh,file:$HOME/comandosshell/8instalacaosublime.sh,file:$HOME/comandosshell/7instalacaomariadb.sh,file:$HOME/comandosshell/6instalacaodovscode.sh,file:$HOME/comandosshell/5instalacaophp.sh,file:$HOME/comandosshell/4instacaomysql.sh,file:$HOME/comandosshell/3intalacaodoapache.sh,file:$HOME/comandosshell/2intalacaodojava.sh,file:$HOME/comandosshell/1intalacaovlc.sh,file:$HOME/comandosshell/instalacaodogoogle.sh,file:$HOME/comandosshell/teste.sh,file:$HOME/comandosshell/cadastramento.sh,file:$HOME/comandosshell/DIalogoradio.sh,file:$HOME/comandosshell/Dialogoentrada.sh,file:$HOME/comandosshell/menu.sh
+Recent URLs[$e]=file:$HOME/comandosshell/
+
+[MainWindow]
+Height 795=676
+State=AAAA/wAAAAD9AAAAAAAAAykAAAKGAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1600=809
+Window-Maximized 600x800=true
+
+[filetree]
+editShade=179,218,246
+listMode=false
+shadingEnabled=true
+showFullPathOnRoots=false
+sortRole=0
+viewShade=193,208,209
